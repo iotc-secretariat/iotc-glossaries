@@ -1,0 +1,380 @@
+# Glossary
+
+### A {#A}
+
+#### Anchored Fish Aggregating Device {#afad}
+
+A fish aggregating device tethered to the bottom of the ocean,
+usually consisting of a buoy, and anchored to the bottom of the ocean (Res. [23/01](https://iotc.org/cmm/resolution-2301-management-anchored-fish-aggregating-devices-afads)).
+
+#### Artisanal Fishery {#artisanalFishery}
+
+Traditional fishery that involves fishing households (as opposed to commercial companies), using relatively small amounts of capital and energy, relatively small fishing vessels (if any), making short fishing trips close to shore, mainly for local consumption. In practice, definition varies between countries, e.g., from gleaning or a one-man canoe in poor developing countries, to more than 20 m trawlers, seiners, or longliners in developed ones. Artisanal fisheries can be subsistence or commercial fisheries, providing for local consumption or export. They are sometimes referred to as small-scale fisheries ([FAO 2005](https://www.fao.org/documents/card/en/c/ae76ef51-be20-5e71-aec5-b469e5e0a673)).
+
+#### Artisanal Fishery (IOTC) {#iotcArtisanalFishery}
+
+Fishery composed of fishing vessels of less than 24 m length overall that exclusively operate in the exclusive economic zone of their flag state, i.e., not recorded in the IOTC Record of Authorised Vessels. Synonym to coastal fisheries (Res. [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and)).
+
+#### Artisanal fishing vessel (IOTC) {#iotcArtisanalFishingvessel}
+
+Fishing vessel less than 24 m in length overall operating inside the exclusive economic zone of a flag State and catching tuna or tuna-like species in the IOTC area of competence. Synonym to coastal fishing vessel.
+
+#### Associated School {#associatedSchool}
+
+The fish school is associated with a topographic structure (e.g., seamount), an anchored or a drifting floating object, including man-made rafts such as fish aggregating devices and live animals in motion (e.g., whale sharks, cetaceans).
+
+### B {#B}
+
+#### Bycatch {#bycatch}
+
+Discarded catch plus incidental catch ([Alverson et al. 1994](https://www.fao.org/3/t4890e/T4890E00.htm)).
+
+#### Bycatch Species (IOTC) {#iotcBycatchSpecies}
+
+All species, other than the 16 species listed in Annex B of the IOTC Agreement, caught or interacted with by fisheries for tuna and tuna-like species in the IOTC area of competence. A bycatch species includes those non-IOTC species which are (a) retained (byproduct), (b) incidentally taken in a fishery and returned to the sea (discarded); or (c) incidentally affected by interacting with fishing equipment in the fishery, but not taken.
+
+#### Byproduct {#byproduct}
+
+A species taken incidentally in a fishery while fishing for the target species that has some commercial value and is retained for sale.
+
+### C {#C}
+
+#### Coastal Fishery (IOTC) {#iotcCoastalFishery}
+
+Fishery composed of fishing vessels of less than 24 m length overall that exclusively operate in the Exclusive Economic Zone of their flag state, i.e., not recorded in the IOTC Record of Authorised Vessels (Res. [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and)). Synonym to IOTC artisanal fishery.
+
+#### Conservation and Management Measure {#cmm}
+
+Any measure adopted pursuant to Articles V(2)(c) and IX in the IOTC Agreement, and more generally where not applicable to IOTC such measures that are consistent with international law ([IOTC CMMs](https://www.iotc.org/cmms)).
+
+#### Coordinating Working Party on Fishery Statistics {#cwp}
+
+International and interorganizational forum for agreeing common definitions, classifications and standards for the collection of fishery and aquaculture statistics. It has developed common procedures for statistics collation which have streamlined processes and reduced the burden on the statistical offices of national fisheries and aquaculture production, as well as providing technical advice to participating organisations on fishery-related and aquaculture-related statistical matters, and facilitating the publication of methodological and reference documents ([CWP](https://www.fao.org/cwp-on-fishery-statistics/background/en/)).
+
+### D {#D}
+
+#### Disc Width {#dw}
+
+Length of a ray measured as the maximum straight distance between wing tips.
+
+#### Discards {#discards}
+
+All non-retained catch, including individuals released alive or discarded dead ([Alverson et al. 1994](https://www.fao.org/3/t4890e/T4890E00.htm)).
+
+#### Drifting Fish Aggregating Device {#dfad}
+
+Fish aggregating device not tethered to the bottom of the ocean typically composed of a floating structure (such as a bamboo or metal raft with buoyancy provided by buoys, corks, etc.) and of a submerged structure (made of canvass, ropes, etc.) (Res. [19/02](https://iotc.org/cmm/resolution-1902-procedures-fish-aggregating-devices-fads-management-plan)).
+
+#### Drifting longline {#driftingLongline}
+
+Longline kept near the surface or at a certain depth by means of regularly spaced floats. Drifting longlines may be of considerable length, and the snoods are usually longer and more widely spaced than for the bottom longlines. Some drifting longlines are set vertically, each line hanging from a float at the surface. They are usually worked in groups of several lines operated by a single boat ([Nédélec and Prado 1999](https://www.fao.org/3/t0367t/t0367t00.htm)).
+
+#### Driftnet {#driftnet}
+
+Type of gillnet that is not fixed to the seabed but allowed to drift with the current. Synonym to drift gillnet (https://www.fao.org/fishery/en/geartype/220/en).
+
+### E {#E}
+
+#### Elasmobranchs {#elasmobranchs}
+
+Subclass of chondrichthyes or cartilaginous fish, including modern sharks (superorder Selachii), skates, rays, and sawfish (superorder Batoidea) ([Wikipedia](https://en.wikipedia.org/wiki/Elasmobranchii)).
+
+#### Engine Power
+
+Power that an engine can put out, generally expressed in kilowatt (kw) or horsepower (hp).
+
+#### Exclusive Economic Zone {#eez}
+
+An area beyond and adjacent to the territorial sea, subject to the specific legal regime established in the United Nations Convention on the Law of the Sea, which provides that it is not to extend beyond 200 nm from the baselines from which the breadth of the territorial sea is measured.
+
+### F {#F}
+
+#### Fish Aggregating Device {#fad}
+
+A permanent, semi-permanent or temporary object, structure or device of any material, man-made or natural, which is deployed and/or tracked, for the purpose of aggregating target tuna species for consequent capture (Res. [19/02](https://iotc.org/cmm/resolution-1902-procedures-fish-aggregating-devices-fads-management-plan)).
+
+#### Fisher {#fisher}
+
+An individual who engages in fishing activities for the purpose of deriving a livelihood, generating a revenue or pursuing sport or recreation. A full-time, part-time or occasional fisher receives some or all of their livelihood from fishing or spends some or all of their working time in that occupation. A sport or recreational fisher (or angler) conducts fishing in pursuit of sport or recreation ([CWP Handbook](https://www.fao.org/cwp-on-fishery-statistics/handbook/en/)).
+
+#### Fishery {#fishery}
+
+An activity leading to harvesting of fish. It may involve capture of wild fish or raising of fish through aquaculture ([FAO fishery glossary](https://www.fao.org/faoterm/en/)).
+
+#### Fishery (IOTC) {#iotcFishery}
+
+IOTC definition of fishery units used to define fishing practices, which emerge from the combination of fishery purposes, area of operation, fishing vessels' size, gear and gear configuration, and target species (see section on [Terminology](#fisheries)).
+
+#### Fishery Vessel {#fisheryVessel}
+
+Mobile floating platform of any kind and size, operating in fresh, brackish or marine waters which are used for catching, harvesting, searching, transporting, landing, preserving and/or processing fish, shellfish and other aquatic organisms, residues and plants ([CWP Handbook](https://www.fao.org/cwp-on-fishery-statistics/handbook/capture-fisheries-statistics/fishery-fleet/en/)).
+
+#### Fishing Capacity {#fishingCapacity}
+
+The ability of a vessel or fleet of vessels to catch fish. Fishing capacity (capacity output) can be expressed more specifically as the maximum amount of fish over a period of time (year, season) that can be produced by a fishing fleet if fully utilised, given the biomass and age structure of the fish stock and the present state of the technology ([Pascoe and Greboval 2003](https://www.fao.org/3/Y4849E/y4849e00.htm)).
+
+#### Fishing Effort (effective) {#effectiveFishingEffort}
+
+Adjusted measure of effort to take account of differences in fishing power and efficiency and ensure proportionality with fishing mortality, and when two or more kinds of gear are used or when the same gear is used for example by different classes of vessel or métier, the respective efforts are adjusted to some common standard before being aggregated across all classes (strata) ([CWP Handbook](https://www.fao.org/cwp-on-fishery-statistics/handbook/en/)).
+
+#### Fishing Effort (nominal) {#nominalFishingEffort}
+
+General measure of effort used to quantify the unadjusted, total effort units exerted on a stock in a given time period by a fishery, gear or métier ([CWP Handbook]((https://www.fao.org/cwp-on-fishery-statistics/handbook/capture-fisheries-statistics/fishery-fleet/en/))).
+
+#### Fishing Event {#fishingEvent}
+
+A fishing activity targeting a particular school, aggregation, or fishing opportunity, which may comprise one or several fishing operations (sets), depending on gear configuration and fishing practice. In pole-and-line fisheries, multiple poles may be operated simultaneously while fishing on the same school. In such cases, the overall fishing activity may constitute a fishing event that includes several individual gear actions.
+
+#### Fishing Logbook {#fishingLogbook}
+
+A permanently bound logbook issued by the flag State of a vessel and required for any purpose relating to fishing or related activities, with irremovable pages, each of which is consecutively numbered and printed with an applicable serial number and/or an electronic logbook, being computerised record of information and data relating to fishing or related activities in such template as may be required, including under any conservation and management measure.
+
+#### Fishing Mode {#fishingMode}
+
+A specific practice or method of conducting a fishing operation or searching for fish within a fishery, fishing sector or region. A fishing mode may also be associated with a métier ([CWP Handbook](https://www.fao.org/cwp-on-fishery-statistics/handbook/capture-fisheries-statistics/fishery-fleet/en/)).
+
+#### Fishing Operation {#fishingOperation}
+
+A discrete fishing action involving the deployment and retrieval of fishing gear, undertaken with the intention of catching fish. A fishing operation (or set) constitutes the basic and standardised unit of fishing effort for IOTC data reporting and for the estimation of observer coverage under the IOTC Regional Observer Scheme. Synonym to fishing set.
+
+#### Fishing Power {#fishingPower}
+
+Effectiveness of a vessel’s fishing effort relative to the effectiveness of other vessels.
+
+#### Fishing vessel {#fishingvessel}
+
+Fishery vessel only engaged in catching operations. The term "non-fishing vessel" applies to vessels performing other functions related to fisheries; this includes vessels providing supplies, motherships, fish carriers, and vessels involved in fisheries resources protection, aquaculture operations, and vessels rendering assistance or conducting fisheries related research or training ([Thermes et al. 2003](https://www.fao.org/fishery/en/publications/278529)).
+
+#### Flag state {#flagState}
+
+The State in which a vessel is registered, providing it is only registered in one State.
+
+#### Fork Length {#forkLength}
+
+Length of a fish measured as the straight distance between the tip of the snout and the fork of the tail (see [IOTC Reference Data Catalogue](https://data.iotc.org/reference/latest/domain/biology/#lengthMeasurements)).
+
+#### Free School {#freeSchool}
+
+The fish school is not associated with any anchored or drifting floating object. Synonym to free-swimming school or unassociated school.
+
+### G {#G}
+
+#### Gear {#gear}
+
+The general name for the equipment used for fishing. This might include lines, nets, warps, floats, deck equipment and any other specific fishing items ([Thermes et al. 2023](https://www.fao.org/fishery/en/publications/278529)).
+
+#### Gillnet {#gillnet}
+
+Type of passive fishing gear consisting of panels of net held vertically in the water column, either in contact with the seabed or suspended from the sea surface, such that fish attempting to swim through the net are entangled. The mesh size of the net determines the size range of fish caught, as smaller fish can swim through the meshes and larger fish are not enmeshed (https://www.fish.wa.gov.au/).
+
+#### Gross tonnage {#gt}
+
+Dimensionless measure of the overall size of a ship ([Thermes et al. 2023](https://www.fao.org/fishery/en/publications/278529)).
+
+### H {#H}
+
+#### Handline {#handline}
+
+Fishing method in which a line with a hook, usually baited, is lowered into the water from a drifting, anchored or moving fishing vessel or from a jetty, pier or rock on the shore overlooking the water ([Bjarnason 1992](https://www.fao.org/3/t0511e/T0511E00.htm)).
+
+#### High-Seas {#highseas}
+
+All parts of the sea that are not included in the Exclusive Economic Zone, in the territorial sea or in the internal waters of a State, or in the archipelagic waters of an archipelagic State ([UNCLOS](https://en.wikisource.org/wiki/United_Nations_Convention_on_the_Law_of_the_Sea)).
+
+### I {#I}
+
+#### Industrial Fishery {#industrialFishery}
+
+Fishery that (i) catches fish from large and medium-sized vessels fitted out with mechanised methods of operating the fishing gear and installations for preservation of fish on board, (ii) process the catch either in land base or on board – in which cases the vessels are provided with appropriate processing installations, and (iii) distribute the fish products around the country and abroad using mechanised means of transportation adapted for fish and fish products. All these activities are generally organised for the financial benefit of the companies or organisations operating the fishing vessels, processing plants, and fish product transportation ([Thermes et al. 2023](https://www.fao.org/fishery/en/publications/278529)).
+
+#### Industrial Fishing Vessel {#industrialFishingVessel}
+
+Large vessel, typically of 24 m in length and over, engaged in catching operations, outfitted with mechanised methods of operating the fishing gear and installations for preservation of fish on board ([Thermes et al. 2023](https://www.fao.org/fishery/en/publications/278529)).
+
+<!-- #### Industrial fishing vessel (IOTC) {#iotcindustrialfishingvessel} -->
+
+<!-- Vessel recorded in the IOTC Record of Authorised Vessels, i.e., of 24 m length overall and over, or of less than 24 m length overall that operates in waters outside the Economic Exclusive Zone of her flag State, including auxiliary, supply and support vessels (Res. [19/04](https://www.iotc.org/cmm/resolution-1904-concerning-iotc-record-vessels-authorised-operate-iotc-area-competence)). -->
+
+#### IOTC Active Vessel List {#avl}
+
+The list of vessels having operated in the IOTC area of competence in a given year, including fishing and non-fishing vessels of 24 m length overall and over, or of less than 24 m length overall that operated in waters outside the Economic Exclusive Zone of the flag State (Res. [10/08](https://www.iotc.org/cmm/resolution-1008-concerning-record-active-vessels-fishing-tunas-and-swordfish-iotc-area)).
+
+#### IOTC Agreement {#iotcAgreement}
+
+The 1993 Agreement for the establishment of the Indian Ocean Tuna Commission ([IOTC Agreement](https://iotc.org/sites/default/files/documents/2012/5/25/IOTC%20Agreement.pdf))
+
+#### IOTC Area of Competence {#iotcAreaofCompetence}
+
+The Indian Ocean (defined for the purpose of the IOTC Agreement as being FAO Statistical Areas 51 and 57), and adjacent seas, north of the Antarctic Convergence, insofar as it is necessary to cover such seas for the purpose of conserving and managing stocks that migrate into or out of the Indian Ocean. In 1999, the Commission extended the western boundary of the IOTC statistical area from 30ºE to 20ºE, thus eliminating the gap in between the areas covered by the IOTC and ICCAT ([FAO Fisheries Geonetwork Platform](https://www.fao.org/fishery/geonetwork/srv/eng/catalog.search#/metadata/fao-rfb-map-iotc)).
+
+#### IOTC Record of Authorised Vessels {#rav}
+
+The list of vessels authorised to operate in the IOTC Area of Competence in a given time period, including fishing and non-fishing vessels of 24 m length overall and over, or of less than 24 m length overall that may operate in waters outside the Exclusive Economic Zone of the flag State. These vessels are referred to as authorised fishing vessels (AFVs) (Res. [19/04](https://www.iotc.org/cmm/resolution-1904-concerning-iotc-record-vessels-authorised-operate-iotc-area-competence)).
+
+#### IOTC Species {#iotcSpecies}
+
+Any or all of the 16 tuna and tuna-like species listed in Annex B of the [IOTC Agreement](#iotcagreement).
+
+#### IOTC Stocks {#iotcstocks}
+
+The populations of the IOTC species which are located in the IOTC Area of Competence or migrate into or out of the area [IOTC Agreement](#iotcagreement).
+
+#### Instrumented Buoy {#instrumentedBuoy}
+
+A buoy clearly marked with a unique reference number allowing identification of its owner and equipped with a satellite tracking system to monitor at least its position (Res. [24/02](https://www.iotc.org/cmm/resolution-2402-management-drifting-fish-aggregating-devices-fads-iotc-area-competence)).
+
+### L {#L}
+
+#### Landing {#landing}
+
+Weight of what is landed at a landing site. May be different from the catch which includes the discards ([FAO fishery glossary](https://www.fao.org/faoterm/en/)).
+
+#### Large-Scale Driftnets
+
+Drift gillnets or other nets or a combination of nets that are more than 2.5 km in length whose purpose is to enmesh, entrap, or entangle fish by drifting on the surface of or in the water column.
+
+#### Length Overall {#loa}
+
+Distance in a straight line parallel to the design waterline, between the foremost point of the bow and the aftermost point of the stern ([Thermes et al. 2023](https://www.fao.org/fishery/en/publications/278529)).
+
+#### Line Fishing {#lineFishing}
+
+Fishing methods that use fishing lines in one form or another, including handlines, hand reels, powered reels, pole-and-lines, droplines, longlines, trotlines, and trolling lines.
+
+#### Live Weight Equivalent {#liveWeightEquivalent}
+
+Weight derived from the landed or product weight by the application of certain factors and designed to represent the actual weight of the fishery product as it was taken from the water and before being subjected to any processing or other operations ([Eurostat](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Live_weight_of_fishery_products#:~:text=Live%20weight%20of%20fishery%20products%20is%20derived%20from%20the%20landed,any%20processing%20or%20other%20operations.)).
+
+#### Longline Fishery (IOTC) {#iotcLonglineFishery}
+
+Fishery undertaken by vessels recorded in the IOTC Record of Authorised Vessels that use a longline gear (Res. [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and)).
+
+#### Longline {#longline}
+
+A fishing gear in which branch lines (called snoods or gangions) carrying baited or unbaited hooks are attached to a longer main line at regular intervals. A snood is a short length of line, attached to the main line using a clip or swivel, with the hook at the other end.  Longlines are classified mainly by where they are placed in the water column. They can be laid on the bottom or suspended horizontally at a predetermined depth with the help of surface floats. The main lines can be as long as 150 km and have several thousand hooks ([FAO fishery glossary](https://www.fao.org/faoterm/en/)).
+
+#### Lower-Jaw Fork Length {#lj}
+
+Length of a fish measured as the straight distance between the tip of the lower jaw and the fork of the tail (see [IOTC Reference Data Catalogue](https://data.iotc.org/reference/latest/domain/biology/#lengthMeasurements)).
+
+### M {#M}
+
+#### Metadata {#metadata}
+
+Description of the the content, context and provenance of datasets in a standardised and structured manner, typically describing the purpose, origin, temporal characteristics, geographic location, authorship, access, and conditions and terms of use of a dataset ([UK data service](https://ukdataservice.ac.uk/learning-hub/research-data-management/document-your-data/metadata/)).
+
+### N {#N}
+
+#### Neritic {#neritic}
+
+Designating, or of, the ecological zone (neritic zone) of the continental shelf extending from low tide to a depth of around 180 m.
+
+#### Net Tonnage {#netTonnage}
+
+Dimensionless measure of the useful capacity of a ship ([Thermes et al. 2023](https://www.fao.org/fishery/en/publications/278529)).
+
+#### Nominal Catches {#nominalCatches}
+
+Officially declared aquatic organisms captured during fisheries and expressed as live weight equivalent. Nominal catches do not include unreported catches, such as unreported discards, and may differ considerably from the real catch ([Eurostat](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Nominal_catch)).
+
+#### Non-Target Species {#nonTargetSpecies}
+
+Species that are unintentionally taken by a fishery or not routinely assessed for fisheries management.
+
+### O {#O}
+
+#### Oceanic {#oceanic}
+
+Open-ocean waters beyond the edge of the continental shelf.
+
+<!-- #### Operational Buoy {#operationalBuoy} -->
+
+<!-- Any instrumented buoy, previously activated, switched on and deployed at sea on a drifting FAD or log, which transmits position and any other available information such as echo-sounder estimates (Res. [19/02](https://iotc.org/cmm/resolution-1902-procedures-fish-aggregating-devices-fads-management-plan)). -->
+
+### P {#P}
+
+#### Pelagic
+
+Inhabiting surface waters rather than the sea floor. Usually applied to free-swimming species such as tunas and sharks.
+
+#### Pole-And-Line Fishery {#poleAndLineFishery}
+
+Fishery undertaken by vessels using a technique in which surface schooling fish are attracted to the vessel and driven into very active feeding behaviour by throwing live or dead bait into the water and spraying water onto the sea surface to simulate the escape behaviour of small preys. The fish lured with a line and a hook attached to a pole and pulled off the water by manual or powered devices ([FAO fishery glossary](https://www.fao.org/faoterm/en/)). 
+
+<!-- #### Purse Seine Fishery {#purseSeineFishery} -->
+
+### R {#R}
+
+#### Retained Catches {#retaineCatches}
+
+Estimated component of the catch which is retained on board during a fishing trip ([CWP](https://www.fao.org/cwp-on-fishery-statistics/handbook/capture-fisheries-statistics/catch-and-landings/en/)).
+
+#### Round Weight
+
+Weight of the whole fish before processing or removal of any part ([FAO fishery glossary](https://www.fao.org/faoterm/en/)).
+
+#### Purse Seine {#purseine}
+
+Nets characterized by the use of a purse line at the bottom of the net. The purse line enables the net to be closed like a purse and thus retain all the fish caught ([Nédélec and Prado 1990](https://www.fao.org/3/t0367t/t0367t00.htm)).
+
+### S {#S}
+
+#### Semi-Industrial Fishery {#semiIndustrialFishery}
+
+Fishery that (i) catches fish from medium- (and/or small-) sized vessels fitted out with mechanised methods of operating the fishing gear, (ii) process the catch in land bases, and (iii) distributed the fish and fish products around a limited area, and in exceptional cases only for export. These activities are aimed at the financial benefit of the companies or organisations operating the fishing vessels, processing plants, and transport facilities ([Thermes et al. 2023](https://www.fao.org/fishery/en/publications/278529)).
+
+#### Semi-Industrial Fishing Vessel {#semiIndustrialFishingVessel}
+
+Medium-sized vessel, typically of 12 m in length but less than 24 m in length, engaged in catching operations, outfitted with mechanised methods of operating the fishing gear ([Thermes et al. 2023](https://www.fao.org/fishery/en/publications/278529)).
+
+<!-- #### Semi-industrial fishing vessel (IOTC) {#iotcsemindustrialfishingvessel} -->
+
+<!-- Commercial fishing vessel of length overall comprised between 15 and 24 m and exclusively operating in the exclusive economic zone of the flag state, or of length less than 24 m and operating on the high seas or in exclusive economic zones other than the one from the flag state ([IOTC-2023-WPDCS19-07_Rev1](https://iotc.org/documents/WPDCS/19/07)). -->
+
+#### Set Longline {#setLongline}
+
+Longline consisting of a main line set either horizontally on or near the bottom or less commonly near the surface ([Nédélec and Prado 1990](https://www.fao.org/3/t0367t/t0367t00.htm)).
+
+#### Size-Frequency {#sizeFrequency}
+
+The number of individuals in a catch or catch sample in each group of sizes (size intervals).
+
+#### Small-Scale Fishery {#smallScaleFishery}
+
+Fishery characterised in most cases by fishing vessels with non-mechanized propulsion systems (sails and oars) or low-horsepower outboard or inboard engines, use of passive fishing methods, manual operation of fishing gear (setting, shooting and hauling) and the absence of electronic fish-finding and navigational devices ([Tietze et al. 2000](https://www.fao.org/3/x8294e/X8294E00.htm)). From a socio-economic perspective, small-scale fisheries can be broadly categorised as a dynamic and evolving sector employing labour intensive harvesting, processing and distribution technologies to exploit marine and inland water fishery resources. The activities of this sub-sector, conducted full-time or part-time, or just seasonally, are often targeted on supplying fish and fishery products to local and domestic markets, and for subsistence consumption ([FAO 2004](https://www.fao.org/3/y5245e/y5245e00.htm)).
+
+#### Standard Length {#sl}
+
+Length of a fish measured as the straight distance between the tip of the snout to the end of the caudal skeleton ([FAO fishery glossary](https://www.fao.org/faoterm/en/)).
+
+#### Subsistence Fishery {#subsistenceFishery}
+
+Subsistence fishery is a fishery where the fish caught are consumed directly by the families of the fishers rather than being bought by middle-(wo)men and sold at the next larger market ([FAO 1999](https://www.fao.org/3/x2465e/x2465e.pdf)).
+
+#### Support Vessel {#supportVessel}
+
+Non-fishing vessel supporting fishing operations and in particular assisting purse seine fishing vessels in the location of tuna schools and in the the deployment, monitoring and retrieving of buoys and drifting fish aggregating devices. Synonym to supply vessel, auxiliary vessel or tender vessel.
+
+#### Surface Fishery {#surfaceFishery}
+
+Fishing activity to target surface-swimming species.
+
+#### Surface Fishery (IOTC) {#iotcSurfaceFishery}
+
+Fishery undertaken by vessels recorded in the IOTC Record of Authorised Vessels other than longline fisheries; in particular purse seine, pole-and-line, gillnet, handline, and trolling vessels (Res. [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and)).
+
+### T {#T}
+
+#### Tonnage {#tonnage}
+
+A measure of the size or capacity of a ship, representing a dimensionless function of volume which is defined by internationally agreed formulae ([Thermes et al. 2023](https://www.fao.org/fishery/en/publications/278529)).
+
+#### Trolling Line {#trollingLine}
+
+Simple line, provided with natural or artificial bait and trailed near the surface or at a certain depth by a vessel. Several lines are usually towed at the same time, by using outriggers ([Nédélec and Prado 1990)](https://www.fao.org/3/t0367t/t0367t00.htm).
+
+### U {#U}
+
+#### Upper-Jaw Fork Length {#fl}
+
+Length of a fish measured as the straight distance between the tip of the upper jaw and the fork of the tail (see [IOTC Reference Data Catalogue](https://data.iotc.org/reference/latest/domain/biology/#lengthMeasurements)).
