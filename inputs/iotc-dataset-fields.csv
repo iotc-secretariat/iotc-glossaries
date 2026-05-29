@@ -1,0 +1,73 @@
+DATASET;CONTEXT;FIELD;DEFINITION;CODE LIST NAME;CODE LIST URL
+RC;GENERAL;YEAR;Gregorian calendar year of the catches (e.g., 1996);;
+RC;GENERAL;QUARTER;"Fishing time period within the reporting year. 0 = Jan–Dec; 1 = Jan–Mar; 2 = Apr–Jun; 3 = Jul–Sep; 4 = Oct–Dec";;
+RC;GENERAL;FISHING_GROUND_CODE;IOTC legacy code for the main IOTC fishing area where the catch occurred;Main areas;https://data.iotc.org/reference/latest/domain/legacy/#legacyMainAreas
+RC;GENERAL;FLEET;IOTC legacy code and label for the fishing fleets;Fleets;https://data.iotc.org/reference/latest/domain/legacy/#legacyFleets
+RC;GENERAL;FISHERY_TYPE;IOTC legacy code and label for the main types of fisheries;Types of fisheries;https://data.iotc.org/reference/latest/domain/legacy/#legacyFisheryTypes
+RC;GENERAL;FISHERY_GROUP;IOTC legacy code and label for the broader grouping of fisheries;Groups of fisheries;https://data.iotc.org/reference/latest/domain/legacy/#legacyFisheryGroups
+RC;GENERAL;FISHERY;IOTC legacy code and label for the fishery in which the catch was taken;Fisheries;https://data.iotc.org/reference/latest/domain/legacy/#legacyFisheries
+RC;GENERAL;GEAR;IOTC legacy code and label for the type of fishing gear used;Gears;https://data.iotc.org/reference/latest/domain/legacy/#legacyGears
+RC;GENERAL;SPECIES_WP;IOTC Working Party primarily responsible for the species;Working Parties;https://data.iotc.org/reference/latest/domain/legacy/#legacyWorkingParties
+RC;GENERAL;SPECIES_GROUP;Broad group of species (e.g., billfish species);Group of species;https://data.iotc.org/reference/latest/domain/legacy/#legacyFisheryGroups
+RC;GENERAL;SPECIES_CATEGORY;Category of the species or taxon within the IOTC classification (e.g., seerfish);Categories of species;https://data.iotc.org/reference/latest/domain/legacy/#legacySpeciesCategories
+RC;GENERAL;SPECIES;Species caught and retained;Species;https://data.iotc.org/reference/latest/domain/biology/#allSpecies
+RC;GENERAL;SPECIES_SCIENTIFIC;Scientific name of the species;Species;https://data.iotc.org/reference/latest/domain/biology/#allSpecies
+RC;GENERAL;SPECIES_FAMILY;Family to which the species belongs;Species;https://data.iotc.org/reference/latest/domain/biology/#allSpecies
+RC;GENERAL;SPECIES_ORDER;Taxonomic order of the species;Species;https://data.iotc.org/reference/latest/domain/biology/#allSpecies
+RC;GENERAL;IS_IOTC_SPECIES;Indicates whether the species is managed by the IOTC (TRUE / FALSE);IOTC species;https://data.iotc.org/reference/latest/domain/biology/#IOTCspecies
+RC;GENERAL;IS_SPECIES_AGGREGATE;Indicates whether the taxon represents an aggregate of multiple species (TRUE / FALSE);Species;https://data.iotc.org/reference/latest/domain/biology/#allSpecies
+RC;GENERAL;IS_SSI;Indicates whether the species is of special interest to the IOTC (TRUE / FALSE);Species;https://data.iotc.org/reference/latest/domain/biology/#SSIspecies
+RC;GENERAL;IUCN_STATUS;Conservation status of the species according to the IUCN Red List;Red list categories;https://data.iotc.org/reference/latest/domain/legacy/#IUCNstatus
+RC;GENERAL;FATE_TYPE;IOTC legacy code and label indicating whether the fish caught were retained or discarded;Types of Fates;https://data.iotc.org/reference/latest/domain/legacy/#legacyFateTypes
+RC;GENERAL;FATE;IOTC legacy code and label for the reason for retaining the catch onboard;Fates;https://data.iotc.org/reference/latest/domain/legacy/#legacyFates
+RC;GENERAL;CATCH_UNIT_CODE;IOTC legacy code for the unit used to report the retained catch;Catch Units;https://data.iotc.org/reference/latest/domain/legacy/#legacyCatchUnits
+RC;GENERAL;CATCH;Amount of fish caught and retained, expressed in live-weight equivalent (metric tonnes);;
+CA;GENERAL;YEAR;Gregorian calendar year of the fishing activities reported through the dataset;;
+CA;GENERAL;MONTH_START;Start month of the fishing activities reported through the dataset;;
+CA;GENERAL;MONTH_END;Last month of the fishing activities reported through the dataset;;
+CA;GENERAL;FISHING_GROUND_CODE;IOTC code for fishing areas;IOTC Regular grids and irregular areas;https://data.iotc.org/reference/latest/domain/admin/#IOTCgridsCESFAR
+CA;GENERAL;FLEET;IOTC legacy code and label for fishing fleets;Fleets;https://data.iotc.org/reference/latest/domain/legacy/#legacyFleets
+CA;GENERAL;FISHERY_TYPE;IOTC legacy code and label for the main types of fisheries;Types of fisheries;https://data.iotc.org/reference/latest/domain/legacy/#legacyFisheryTypes
+CA;GENERAL;FISHERY_GROUP;IOTC legacy code and label for the broader grouping of fisheries;Groups of fisheries;https://data.iotc.org/reference/latest/domain/legacy/#legacyFisheryGroups
+CA;GENERAL;FISHERY;IOTC legacy code and label for the fishery in which the catch was taken;Fisheries;https://data.iotc.org/reference/latest/domain/legacy/#legacyFisheries
+CA;GENERAL;GEAR;IOTC legacy code and label for fishing gears;Gears;https://data.iotc.org/reference/latest/domain/legacy/#legacyGears
+CA;GENERAL;CATCH_SCHOOL_TYPE_CODE;IOTC legacy code for types of fish school association;Types of school;https://data.iotc.org/reference/latest/domain/legacy/#legacySchoolTypes
+CA;GENERAL;SPECIES_CATEGORY;Category of the species or taxon within the IOTC classification (e.g., seerfish);Categories of species;https://data.iotc.org/reference/latest/domain/legacy/#legacySpeciesCategories
+CA;GENERAL;SPECIES;Species caught and retained;Species;https://data.iotc.org/reference/latest/domain/biology/#allSpecies
+CA;GENERAL;SPECIES_SCIENTIFIC;Scientific name of the species;Species;https://data.iotc.org/reference/latest/domain/biology/#allSpecies
+CA;GENERAL;IS_IOTC_SPECIES;Indicates whether the species is managed by the IOTC (TRUE / FALSE);IOTC species;https://data.iotc.org/reference/latest/domain/biology/#IOTCspecies
+CA;GENERAL;IS_SPECIES_AGGREGATE;Indicates whether the taxon represents an aggregate of multiple species (TRUE / FALSE);Species;https://data.iotc.org/reference/latest/domain/biology/#allSpecies
+CA;GENERAL;IS_SSI;Indicates whether the species is of special interest to the IOTC (TRUE / FALSE);Species;https://data.iotc.org/reference/latest/domain/biology/#SSIspecies
+CA;GENERAL;FATE_TYPE;IOTC legacy code and label indicating whether the fish caught were retained or discarded;Types of fates;https://data.iotc.org/reference/latest/domain/legacy/#legacyFateTypes
+CA;GENERAL;FATE;IOTC legacy code and label for the reason for retaining the catch onboard;Fates;https://data.iotc.org/reference/latest/domain/legacy/#legacyFates
+CA;GENERAL;RAISE_CODE;Indicates whether the size data are original or raised samples;Raising codes;https://data.iotc.org/reference/latest/domain/legacy/#legacyRaisings
+CA;GENERAL;CATCH_UNIT_CODE;IOTC legacy code for the unit used to report the catch;Catch units;https://data.iotc.org/reference/latest/domain/legacy/#legacyCatchUnits
+EF;GENERAL;YEAR;Gregorian calendar year of the fishing activities reported through the dataset;;
+EF;GENERAL;MONTH_START;Start month of the fishing activities reported through the dataset;;
+EF;GENERAL;MONTH_END;Last month of the fishing activities reported through the dataset;;
+EF;GENERAL;FISHING_GROUND_CODE;IOTC code for fishing areas;IOTC Regular grids and irregular Areas;https://data.iotc.org/reference/latest/domain/admin/#IOTCgridsCESFAR
+EF;GENERAL;FLEET;IOTC legacy code and label for fishing fleets;Fleets;https://data.iotc.org/reference/latest/domain/legacy/#legacyFleets
+EF;GENERAL;FISHERY_TYPE;IOTC legacy code and label for the main types of fisheries;Types of fisheries;https://data.iotc.org/reference/latest/domain/legacy/#legacyFisheryTypes
+EF;GENERAL;FISHERY_GROUP;IOTC legacy code and label for the broader grouping of fisheries;Groups of fisheries;https://data.iotc.org/reference/latest/domain/legacy/#legacyFisheryGroups
+EF;GENERAL;FISHERY;IOTC legacy code and label for the fishery in which the catch was taken;Fisheries;https://data.iotc.org/reference/latest/domain/legacy/#legacyFisheries
+EF;GENERAL;GEAR;IOTC legacy code and label for fishing gears;Gears;https://data.iotc.org/reference/latest/domain/legacy/#legacyGears
+EF;GENERAL;SCHOOL_TYPE_CODE;IOTC legacy code for types of fish school association;Types of school;https://data.iotc.org/reference/latest/domain/legacy/#legacySchoolTypes
+EF;GENERAL;EFFORT_UNIT_CODE;IOTC legacy code for the unit used to report the effort;Effort units;https://data.iotc.org/reference/latest/domain/legacy/#legacyEffortUnits
+EF;GENERAL;EFFORT;Total amount of fishing effort exerted within the stratum;;
+SF;GENERAL;YEAR;Gregorian calendar year of the fishing activities reported through the dataset;;
+SF;GENERAL;MONTH_START;"Start month of the fishing activities reported through the dataset	";;
+SF;GENERAL;MONTH_END;"Last month  of the fishing activities reported through the dataset	";;
+SF;GENERAL;FISHING_GROUND_CODE;IOTC code for fishing areas;Fishing Grounds;https://data.iotc.org/reference/latest/domain/admin/#IOTCgridsCESFAR
+SF;GENERAL;FLEET;IOTC legacy code and label for fishing fleets;Fleets;https://data.iotc.org/reference/latest/domain/legacy/#legacyFleets
+SF;GENERAL;FISHERY_TYPE;IOTC legacy code and label for the main types of fisheries;Types of Fisheries;https://data.iotc.org/reference/latest/domain/legacy/#legacyFisheryTypes
+SF;GENERAL;FISHERY_GROUP;IOTC legacy code and label for the broader grouping of fisheries;Groups of Fisheries;https://data.iotc.org/reference/latest/domain/legacy/#legacyFisheryGroups
+SF;GENERAL;FISHERY;IOTC legacy code and label for the fishery in which the catch was taken;Fisheries;https://data.iotc.org/reference/latest/domain/legacy/#legacyFisheries
+SF;GENERAL;GEAR;IOTC legacy code and label for fishing gears;Gear;https://data.iotc.org/reference/latest/domain/legacy/#legacyGears
+SF;GENERAL;SCHOOL_TYPE_CODE;IOTC legacy code for types of fish school association;School Types;https://data.iotc.org/reference/latest/domain/legacy/#legacySchoolTypes
+SF;GENERAL;SPECIES_CATEGORY;Category of the species or taxon within the IOTC classification (e.g., seerfish);Categories of Species;https://data.iotc.org/reference/latest/domain/legacy/#legacySpeciesCategories
+SF;GENERAL;SPECIES;ASFIS three-alpha code for species;Species;https://data.iotc.org/reference/latest/domain/biology/#allSpecies
+SF;GENERAL;MEASURE_TYPE;IOTC legacy code and label for morphometric measurements;Types of Measurements;https://data.iotc.org/reference/latest/domain/biology/#Measurements
+SF;GENERAL;RAISING;Indicates whether the size data are original or raised samples;Raisings;https://data.iotc.org/reference/latest/domain/legacy/#legacyRaisings
+SF;GENERAL;CLASS_LOW;Lower bound value of the size class interval (cm);;
+SF;GENERAL;CLASS_HIGH;Upper bound value of the size class interval (cm);;
+SF;GENERAL;FISH_COUNT;Number of fish estimated in each size class interval;;
