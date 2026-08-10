@@ -373,48 +373,143 @@ MULTIFAN-CL,,"A length-based, age-structured model for stock assessment of fishe
 Multiple random sampling*,,,reference,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
 National jurisdiction areas,,Maritime areas over which a coastal State exercises sovereignty or sovereign rights and jurisdiction in accordance with international law.,UN definition (UNCLOS),,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
 National jurisdiction areas and beyond,,"Maritime areas that are either under the sovereignty or jurisdiction of a coastal State, or outside the jurisdiction of any State, as defined under international law.",UN definition (UNCLOS),,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Nautical mile,nm,"A unit of distance derived from the angular measurement of one minute of arc of latitude but standardised by
+international agreement as 1,852 metres",IOTC science glossary,,,,,,,,,,,,,,,
 Nautical twilight,,"The period when the centre of the Sun is between 6° and 12° below the horizon, during which the horizon is still visible at sea and stars suitable for celestial navigation become visible.",NOAA,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,,,
 NAVTEX,,"An automated maritime information service that broadcasts navigational and meteorological warnings, forecasts, and urgent safety information to ships using narrow-band direct-printing radio communication",IMO terminology,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,,,
 Net drum hauler*,,,,,,,missing reference,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,,,
 Net tonnage,,Dimensionless measure of the useful capacity of a ship,Thermes et al. 2023 (https://www.fao.org/fishery/en/publications/278529),,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,,,
+Neritic,,"Designating, or of, the ecological zone (neritic zone) of the continental shelf extending from low tide to a depth of around
+180 m.",IOTC science glossary,,,,,,,,,,,,,,,
+Net economic returns,NER,"A fishery's net economic return over a particular period is equal to fishing revenue less fishing
+costs. Fishing costs include the usual accounting costs of fuel, labour and repairs and maintenance, as well as various economic
+costs such as the opportunity costs of labour and capital. These measure how much these resources would have been compensated
+had they been operating in the next best alternative. The concept of net economic returns is very closely related to economic
+efficiency. Only in an economically efficient fishery will net economic returns be maximised.",IOTC science glossary,,,,,,,,,,,,,,,
 Nominal catches,,"officially declared aquatic organisms captured during fisheries and expressed as live weight equivalent. Nominal catches do not include unreported catches, such as unreported discards",Eurostat (https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Nominal_catch),,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,,,
-Non-target species,,species for which the fishing gear is not specifically deployed or set,FAO terminology portal,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,,,
+Non-target species*,,species for which the fishing gear is not specifically deployed or set,FAO terminology portal,"Species that are unintentionally taken by a fishery or not routinely assessed for fisheries management. See
+also Bycatch, Byproduct.",IOTC science glossary,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,,,
+Not overfished,,See Overfished.,IOTC science glossary,,,,,,,,,,,,,,,
 Observer,,"means a person who collects information on board fishing vessels, in the framework of observer programs, and can be used inter alia for monitoring fishing activities, quantifying species composition of target species and bycatch",Resolution 25/06,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,,,
+Oceanic,,Open-ocean waters beyond the edge of the continental shelf.,IOTC science glossary,,,,,,,,,,,,,,,
 Offal,,the viscera and trimmings of a butchered animal removed in preparing it for market or for consumption,Webster dictionary definition,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,,,
+Offshore waters,,"Usually oceanic waters, but can refer to outer continental shelf waters.",IOTC science glossary,,,,,,,,,,,,,,,
 Onboard interface/screen*,,"An on-board screen, or equivalent interface, to allow verification by the Master/crew of the correct functioning of the system is required (OR) The onboard interface shall include an on- board screen, or equivalent interface, to allow verification by the skipper/crew on correct functioning of EM equipment.",EM workshop standards,,,,not really a definition. More applied,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,,,
+Open access fishery,,"Fishery in which there is no limit on the number of operators or vessels (c.f. Limited entry fishery). Such a
+fishery is liable to suffer the 'tragedy of the commons'. Under open access, a fishery operates with a harvest and effort that result
+in total revenue equalling costs, with no economic profits being generated. The fishing effort employed at this point exceeds that
+which would achieve MEY. An open access equilibrium is a point where there is no limit on the number of operators or vessels
+allowed to operate in the fishery",IOTC science glossary,,,,,,,,,,,,,,,
+Operating model,,"Model simulation of stock and fishery dynamics, including sources of uncertainty, used in management
+strategy evaluation.",IOTC science glossary,,,,,,,,,,,,,,,
 Operational buoy,,"any instrumented buoy, previously activated, switched on and deployed at sea on a drifting FAD or log",(Res. [19/02](https://iotc.org/cmm/resolution-1902-procedures-fish-aggregating-devices-fads-management-plan)),,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,,,
-Pelagic,,inhabiting surface waters rather than the sea floor. Usually applied to free-swimming species such as tunas and sharks,data reporting guidelines,"Relating to, living or occurring in the open sea.",FAO terminology portal,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
-Pole-and-line fishing,,"a fishing technique in which surface schooling fish are attracted to the vessel and driven into very active feeding behaviour by throwing live or dead bait into the water and spraying water onto the sea surface to simulate the escape behaviour of small preys. The fish lured with a line and a hook attached to a pole and pulled off the water by manual or powered devices,Pole-and-line fishing",([FAO fishery glossary](https://www.fao.org/faoterm/en/)),,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,,TRUE,
+Opportunity cost,,"The compensation a resource forgoes by being employed in its present use and not in the next best alternative.
+For example, the opportunity costs incurred by the skipper of a fishing vessel is the amount they would have received by applying
+their skill and knowledge in the next best alternative occupation. The opportunity cost of owning a fishing vessel might be the
+interest that could be earned if the vessel was sold and the capital invested elsewhere. These costs are not usually reflected in a
+firm's financial accounts but are very important costs nonetheless.",IOTC science glossary,,,,,,,,,,,,,,,
+Otoliths,,Bone-like structures formed in the inner ear of fish. The rings or layers can be counted to determine age.,IOTC science glossary,,,,,,,,,,,,,,,
+Output controls,,"Management measures that place restraints on what is caught, including total allowable catch, quota, size limits
+and species.",IOTC science glossary,,,,,,,,,,,,,,,
+Overfished,,A fish stock with a biomass below the biomass limit reference point (c.f. Not overfished).,IOTC science glossary,,,,,,,,,,,,,,,
+"Overfishing, subject to",,"A stock is experiencing too much fishing and the removal rate from the stock is unsustainable. Also:
+Fishing mortality (F) exceeds the limit reference point (FLIM). When stock levels are at or above BMSY, FMSY will be the default
+level for FLIM.
+Fishing mortality in excess of FLIM will not be defined as overfishing if a formal 'fish down' or similar strategy is in place for a
+stock and the stock remains above the target level (BTARG).
+When the stock is less that BMSY but greater than BLIM, FLIM will decrease in proportion to the level of biomass relative to BMSY.
+At these stock levels, fishing mortality in excess of the target reference point (FTARG) but less than FLIM may also be defined as
+overfishing, depending on the harvest strategy in place and/or recent trends in biomass levels.
+Any fishing mortality will be defined as overfishing if the stock level is below BLIM, unless fishing mortality is below the level
+that will allow the stock to recover within a period of 10 years plus one mean generation time, or three times the mean
+generation time, whichever is less.
+Any directed (targeted) fishing of an overfished stock (stock level is below BLIM) will amount to overfishing.",IOTC science glossary,,,,,,,,,,,,,,,
+Parameter,,"Characteristic feature or measure of some aspect of a stock, usually expressed as a numerical value (e.g. see M (natural mortality)).",IOTC science glossary,,,,,,,,,,,,,,,
+Parental biomass,,Weight of the adult (reproductively mature) population of a species. See also Spawning biomass.,IOTC science glossary,,,,,,,,,,,,,,,
+Pelagic,,inhabiting surface waters rather than the sea floor. Usually applied to free-swimming species such as tunas and sharks (c.f. Demersal).,data reporting guidelines / iotc science glossary,"Relating to, living or occurring in the open sea.",FAO terminology portal,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Performance indicators,,A set of consistent statistics used to evaluate how well management objectives have been achieved.,IOTC science glossary,,,,,,,,,,,,,,,
+Pole-and-line fishing (poling),,"a fishing technique in which surface schooling fish are attracted to the vessel and driven into very active feeding behaviour by throwing live or dead bait into the water and spraying water onto the sea surface to simulate the escape behaviour of small preys. The fish lured with a line and a hook attached to a pole and pulled off the water by manual or powered devices,Pole-and-line fishing",([FAO fishery glossary](https://www.fao.org/faoterm/en/)),"Fishing method in which fishers attract schools of fish to the vessel with live or dead bait, get
+them into a feeding frenzy with more bait and water sprayed onto the sea surface to simulate the behaviour of small baitfish, and
+then use poles with short, fixed lines and lures to 'pole' the fish aboard.",IOTC science glossary,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,,TRUE,
 Pole-and-lines,,"consists of a hooked line attached to a pole. This method is common to sport fisheries (angling) but it is also used in commercial fisheries. Fishing rods/poles are made of wood (including bamboo, also constructed of split cane) and increasingly of fiberglass",IOTC data catalogue fishery categories,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,,TRUE,
 Pool of observers,,means a list of IOTC recognised observers that have been allocated an IOTC registration number and trained according to IOTC standards who may be called upon by other flag States,IOTC Resolution 25/06,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Population structure,,"Composition of a population in terms of size, stock (genetic or regional), age class, sex, etc.",IOTC science glossary,,,,,,,,,,,,,,,
 Port,,"A place on the coast or shore where vessels can enter, anchor, load, unload cargo or catch, receive services, and carry out other maritime activities",IMO term,,,,,TRUE,TRUE,,,,,,,,,
 Port of registration,,The port recorded in a vessel's registration documents as the official port associated with the vessel's registration under its flag State,IMO term,,,,,TRUE,TRUE,,,,,,,,,
+Potential structure,,See Long-term potential yield.,IOTC science glossary,,,,,,,,,,,,,,,
 Power block,,"A mechanized pulley used to haul in nets, purse seine, etc.",FAO terminology ,,,,,TRUE,TRUE,,,,,,,,,
+Precautionary approach,,"Approach to resource management in which, where there are threats of serious irreversible
+environmental damage, lack of full scientific certainty is not used as a reason for postponing measures to prevent environmental
+degradation. In the application of the precautionary principle, public and private decisions should be guided by careful evaluation
+to avoid, wherever practicable, serious or irreversible damage to the environment; and an assessment of the risk-weighted
+consequences of various options.",IOTC science glossary,,,,,,,,,,,,,,,
+Productivity (biological),,"An indication of the birth, growth and death rates of a stock. A highly productive stock is characterised
+by high birth, growth and mortality rates, and can sustain high harvesting rates.",IOTC science glossary,,,,,,,,,,,,,,,
+Productivity (economic),,"The ability of firms or an industry to convert inputs (labour, capital, fuel etc.) into output. Economic
+productivity if often measured using productivity indexes which shows whether more or less output is being produced over time
+with a unit of input. The index is calculated by comparing changes in total output (fish) to changes in total inputs such as fuel,
+labour and capital.",IOTC science glossary,,,,,,,,,,,,,,,
+"Profit, accounting",,"The difference between total revenue and explicit costs. Explicit costs refers to costs such as wages, fuel,
+repairs, maintenance and depreciation of physical capital (e.g. vessels). Where costs exceed total revenue, it is an accounting loss.
+Unlike economic profit, it does not include opportunity cost. See also Profit, economic.",IOTC science glossary,,,,,,,,,,,,,,,
+"Profit, economic",,"The difference between total revenue and explicit and opportunity costs (see Opportunity cost). Explicit costs
+refer to costs such as wages, fuel, repairs and depreciation of physical capital (e.g. vessels). Economic profit differs from
+accounting profit in that opportunity cost is not considered in accounting profit. See also Profit, accounting.",IOTC science glossary,,,,,,,,,,,,,,,
 Purse line*,,,,,,,,TRUE,TRUE,,,,,,,TRUE,,
 Purse seine,,"nets characterized by the use of a purse line at the bottom of the net. The purse line enables the net to be closed like a purse and thus retain all the fish caught. The purse seines, which may be very large, are operated by one or two boats. The most usual case is a purse seine operated by a single boat",FAO terminology portal,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,TRUE,,
 Purse seine bunt*,,,,,,to define,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,TRUE,,
 Purse seine tackle*,,,,,,,,TRUE,TRUE,,,,,,,TRUE,,
 Purse seining,,"harvesting of surface-schooling pelagic fish by surrounding the school with a net. A line that passes through rings on the bottom of the net can be tightened to close the net so that the fish cannot escape,Purse seining",IOTC glossary,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,TRUE,,
+Quota,,Amount of catch allocated to a fishery as a whole (total allowable catch) or to an individual fisher or company (individual transferrable quota),IOTC science glossary,,,,,,,,,,,,,,,
+Quota species,,Species for which catch quotas have been allocated.,,,,,,,,,,,,,,,,
 Radar,,short for radio detection and ranging. A system of detecting and locating targets which are capable of reflecting high frequency radio waves ,FAO terminology portal,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,,
+Rebuilding plan,,"Management plan to rebuild a stock when the measure of its status (e.g. its biomass) is below the (biomass)
+limit reference point (i.e. it is assessed as overfished). Stock rebuilding plans should include elements that define rebuilding
+targets, rebuilding time horizons and control rules related to the rate of progress.",IOTC science glossary,,,,,,,,,,,,,,,
+Recovery plan,,"Management process to rebuild a stock when a measure of its status (e.g. its biomass) is outside a defined limit
+(i.e. it is assessed as overfished). Recovery plans should include elements that define stock-specific management objectives,
+harvesting strategies specified by control rules and recovery periods.",IOTC science glossary,,,,,,,,,,,,,,,
+Recruit,,"Usually, a fish that has just become susceptible to the fishery. Sometimes used in relation to population components
+(e.g. a recruit to the spawning stock).",IOTC science glossary,,,,,,,,,,,,,,,
+Recruitment overfishing,,"Excessive fishing effort or catch that reduces recruitment to the extent that the stock biomass falls
+below the predefined limit reference point.",IOTC science glossary,,,,,,,,,,,,,,,
+References point,,"Indicator of the level of fishing (or stock size); used as a benchmark for assessment (see also Biological
+reference point).",,,,,,,,,,,,,,,,
 Retained catches,,estimated component of the catch which is retained on board during a fishing trip,([CWP](https://www.fao.org/cwp-on-fishery-statistics/handbook/capture-fisheries-statistics/catch-and-landings/en/)),,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
 Review for data quality,,"the verification process of re- analysing/interpreting a portion of previously analysed EM records to determine completeness, adherence to protocols",EM workshop-WCPFC term,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,,
+Ricker curve/function,,Mathematical function that describes the relationship between stock size and recruitment.,IOTC science glossary,,,,,,,,,,,,,,,
 Ring nets,,"a ring net is a net the form of which is intermediate hybrid between a purse seine and a lamapara net: like on a purse seine, rings at the lower edge of the net, allow using a purse line to close it under the fish (pursing) and like on a lampara net",gear code lists,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,,,
+Risk analysis,,Analysis that evaluates the possible outcomes of various harvesting strategies or management options.,IOTC science glossary,,,,,,,,,,,,,,,
 Round weight,,weight of the whole fish before processing or removal of any part,([FAO fishery glossary](https://www.fao.org/faoterm/en/)),,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,,,
 Rudder,,A movable vertical control surface fitted at the stern of a vessel that is used to steer the vessel by changing the direction of water flow passing around it.,IMO terminology,,,,,,TRUE,,,,,,,,,
-Search and Rescue Transponder,SART,"A radar transponder carried by survival craft or vessels that responds to search radar signals by transmitting a series of pulses, allowing rescuers to locate survivors during search and rescue operations.",IMO terminology,"These devices may be either a radar-SART (Search and Rescue Transponder), or an AIS-SART (AIS Search and Rescue Transmitter) are used to locate survival craft or distressed vessels by creating a series of dots on a rescuing ship's 3 cm radar display",observer manual 2019,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,,,
+SBMSY,,Spawning or 'adult' equilibrium biomass at MSY.,IOTC science glossary,,,,,,,,,,,,,,,
+"SART, Search and Rescue Transponder",SART,"A radar transponder carried by survival craft or vessels that responds to search radar signals by transmitting a series of pulses, allowing rescuers to locate survivors during search and rescue operations.",IMO terminology,"These devices may be either a radar-SART (Search and Rescue Transponder), or an AIS-SART (AIS Search and Rescue Transmitter) are used to locate survival craft or distressed vessels by creating a series of dots on a rescuing ship's 3 cm radar display",observer manual 2019,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,,,
 Scupper,,"An opening, drain, or passage through a vessel's bulwark, deck, or side that allows water accumulated on deck to drain overboard.",IACS term,,,,,,TRUE,,,,,,,,,
+Seasonal closure,,"Closure of a fishing ground for a defined period; used as a management tool, often to protect a particular
+component of the stock.",IOTC science glossary,,,,,,,,,,,,,,,
 Semi-industrial fishery,,"Fishery that (i) catches fish from medium- (and/or small-) sized vessels fitted out with mechanised methods of operating the fishing gear, (ii) process the catch in land bases, and (iii) distributed the fish and fish products around a limited area, and in exceptional cases only for export. These activities are aimed at the financial benefit of the companies or organisations operating the fishing vessels, processing plants",Thermes et al. 2023 (https://www.fao.org/fishery/en/publications/278529),,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
 Semi-industrial fishing vessel,,"medium-sized vessel, typically of 12 m in length but less than 24 m in length, engaged in catching operations",Thermes et al. 2023 (https://www.fao.org/fishery/en/publications/278529),commercial fishing vessel of length overall comprised between 15 and 24 m and exclusively operating in the exclusive economic zone of the flag state,([IOTC-2023-WPDCS19-07_Rev1](https://iotc.org/documents/WPDCS/19/07)),,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
 Sensors ,,"EM systems may be equipped with a variety of integrated sensors that can provide additional information on fishing activity, trigger activation or adjustment of configurations of cameras",EM workshop,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,,
 Set gillnets,,"a set gillnet is a long rectangular netting anchored or otherwise fixed to the seabed to catch fish when they come in contact with it. The set gillnet is held open vertically in the water by a headrope usually with floats, and by a footrope weighted with sinkers. Floatation and weight may be built into ropes, which are usually called floatrope and leadrope respectively. The net is kept in position by anchors or other weights, usually at both ends",IOTC reference fish categories,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,,,TRUE
 Set longline,,A longline gear that is anchored or otherwise fixed to the seabed at either end of the mainline.,FAO terminology portal,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,TRUE,,,
+Settlement,,Transition from a pelagic larval stage to a substrate-associated juvenile or adult existence.,IOTC science glossary,,,,,,,,,,,,,,,
 Shallow setting*,,the gear is deployed at a shallow depth,gear configuration code lists,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,,,
-Shark line,,"A section of fishing line made from material resistant to shark bites, such as wire or other strong materials, used to reduce the likelihood of sharks biting through the lin",,,,To check with Lauren/Cynthia,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Shark line,,"Branch lines running directly off the longline floats or drop lines made from material resistant to shark bites, such as wire or other strong materials, used to reduce the likelihood of sharks biting through the line (IOTC) ",IOTC,,,To check with Lauren/Cynthia,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Shot (shot-by-shot),,Pertaining to each separate deployment of a fishing gear by a fishing vessel.,IOTC science glossary,,,,,,,,,,,,,,,
 Sinker,,a weight used to sink a fishing line or net,FAO terminology portal,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,,,
-Size frequency,,the number of individuals in a catch or catch sample in each group of sizes (size intervals),IOTC data reporting guidelines,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Simulation,,An imitation of a real world system used to gain insight into how the system operates.,IOTC science glossary,,,,,,,,,,,,,,,
+Size-at-age,,Length or weight of fish at a particular age,IOTC science glossary,,,,,,,,,,,,,,,
+Size-at-first-maturity,,Length or weight of fish when they reach reproductive maturity.,IOTC science glossary,,,,,,,,,,,,,,,
+Size frequency,,the number of individuals in a catch or catch sample in each group of sizes (size intervals),IOTC data reporting guidelines,See Length-frequency distribution.,IOTC science glossary,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
 Skiff*,,,,,,,,,TRUE,,,,,,,,,
 Small-scale fishery*,,"Fishery characterised in most cases by fishing vessels with non-mechanized propulsion systems (sails and oars) or low-horsepower outboard or inboard engines, use of passive fishing methods, manual operation of fishing gear (setting, shooting and hauling) and the absence of electronic fish-finding and navigational devices ([Tietze et al. 2000](https://www.fao.org/3/x8294e/X8294E00.htm)). From a socio-economic perspective, small-scale fisheries can be broadly categorised as a dynamic and evolving sector employing labour intensive harvesting, processing and distribution technologies to exploit marine and inland water fishery resources. The activities of this sub-sector, conducted full-time or part-time, or just seasonally, are often targeted on supplying fish and fishery products to local and domestic markets",IOTC data reporting guidelines,,,I think we need a more relevant definition,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,TRUE,TRUE,TRUE,TRUE
 Sonar,,"an apparatus that uses sound waves to detect objects underwater by measuring or classifying the echoes received from them. An echo sounder is a sonar that transmits vertically. In practice, a sonar is an apparatus other than an echo sounder, i.e.",FAO terminology portal,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,,,
+Spawner-per-recruit (spawner-recruit),,"An index that gives the number of spawners of age X divided by the initial number of
+Recruits.",IOTC science glossary,,,,,,,,,,,,,,,
+Spawning biomass,SB,The total weight of all adult (reproductively mature) fish in a population. Also called 'spawning stock biomass',IOTC science glossary,,,,,,,,,,,,,,,
+Spawning potential ratio,SPR,"The SPR is the average fecundity of a recruit over its lifetime when the stock is fished, divided
+by the average fecundity of a recruit over its lifetime when the stock is unfished.",IOTC science glossary,,,,,,,,,,,,,,,
+Species group,,"Group of similar species, often difficult to differentiate without detailed examination.",IOTC science glossary,,,,,,,,,,,,,,,
 Species of special interest,,"Species of Special Interest include all marine turtles, all marine mammals, all seabirds, shark species with a retention ban: whale sharks (Res 13/05), oceanic white tip sharks (Res 13/06) and thresher sharks (Res 12/09.); and billfish species included in Res 18/05: striped",Adapted from IOTC resolutions,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
 Standard length,,The length of fish measured in a straight line from the tip of the snout to the end of the caudal skeleton,FAO terminology portal,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
 Starboard,,The right-hand side of a vessel when facing forward (towards the bow).,IMO terminology,,,,,,TRUE,,,,,,,,,
