@@ -313,23 +313,63 @@ to a point of open access equilibrium. In an output controlled fishery, this is 
 accordance with regard to appropriate targets.",IOTC science glossary,,,,,,,,,,,,,,,
 Lead line*,,A weighted line or rope attached to the lower edge of a fishing gear to provide sinking force and maintain the gear's position in the water.,Revised from Manual**,,,,,TRUE,TRUE,,,,,,,,,
 Leader,,The line for attaching hook to the mainline in longlines. The term is often used in drift longlines for pelagic species such as tunas and swordfish,FAO terminology portal,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,,,
+Length-frequency distribution; modal size,,"The number of individuals in a catch or catch sample in each group of lengths
+(length intervals). The modal size is the length group into which most individuals fall. Some distributions may show several
+modes, reflecting fish of different ages.",IOTC science glossary,,,,,,,,,,,,,,,
 Length overall,LOA,The maximum length of a vessel measured in a straight line from the foremost point of the bow to the aftermost point of the stern.,FAO terminology portal,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,,,
 Lift nets,,"A lift net is a horizontal netting panel or bag shaped like a parallelepiped, pyramid or cone with the opening facing upwards which are submerged at a certain depth, left for a while, the time necessary for light or bait to attract fish over the opening",data reference catalogue fishery categories,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,,,
+Limited entry fishery,,"Fishery in which the fishing effort is controlled by restricting the number of operators. Usually requires
+controlling the number and size of vessels, the transfer of fishing rights and the replacement of vessels (c.f. Open access fishery).",IOTC science glossary,,,,,,,,,,,,,,,
+Limit reference point,LRP,"A Limit Reference Points indicates the limit beyond which the state of a fishery and / or a resource
+is not considered desirable.",IOTC science glossary,,,,,,,,,,,,,,,
 Line fishing,,"A general term used for a range of fishing methods that employ fishing lines in one form or another (as opposed to nets and traps). It includes handlines, hand reels, powered reels, pole-and-line, droplines, longlines, trotlines and troll lines",FAO terminology portal,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,,,
 Line hauler (branchline),,"A branch line hauler/coiler winds branch lines into tight, uniform coils and assists in quickly recovering and packing branch lines for the next set.",FAO terminology portal,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,,,
 Line setter*,,,,,,To define,missing reference,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,,,
 Live weight equivalent,,Weight derived from the landed or product weight by the application of certain factors and designed to represent the actual weight of the fishery product as it was taken from the water and before being subjected to any processing or other operations,Eurostat,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,,,
+logbook (fishing),,"Official record of catch and effort data made by fishers. In many fisheries, a licence condition makes the
+return of logbooks mandatory",IOTC science glossary,,,,,,,,,,,,,,,
 Longline,,A fishing gear in which short lines carrying hooks are attached to a longer main line at regular intervals. Longlines are laid on the bottom or suspended horizontally at a predetermined depth with the help of surface floats. The main lines can be as long as 150 km and have several thousand hooks (e.g. in tuna fisheries),FAO terminology portal,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,TRUE,,,
 Longline fisheries,,A fishery undertaken by vessels recorded in the IOTC Record of Authorised Vessels that use a longline gear ,data reporting guidelines,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,TRUE,,,
 Longline section*,,,reference,,,to define,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,TRUE,,,
-Lower-jaw fork length,,"Length of a fish measured as the distance between the tip of the lower jaw and the point of the fork or ""V"" of the tail. Commonly used to record the length of commercial fish with bills (e.g. swordfish) because it is little affected by damage to the tail fin (c.f. Total length) and bill. Fork length is measured flat, from point to point, not by stretching a tape along the body surface",IOTC glossary,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Long-term potential yield,,"Estimate of the largest annual harvest that could be taken sustainably from a fish stock, allowing for
+variable environmental conditions. May be estimated in various ways, from taking an average of a time series of historical catches
+to using sophisticated mathematical models.",IOTC science glossary,,,,,,,,,,,,,,,
+Lower-jaw fork length,,"Length of a fish measured as the distance between the tip of the lower jaw and the point of the fork or ""V"" of the tail. Commonly used to record the length of commercial fish with bills (e.g. swordfish) because it is little affected by damage to the tail fin (c.f. Total length) and bill. Fork length is measured flat, from point to point, not by stretching a tape along the body surface",IOTC glossary,"Length of a fish measured as the distance between the tip of the lower jaw and the point of the fork or
+'V' of the tail. Commonly used to record the length of commercial fish with bills (e.g. swordfish) because it is little affected by
+damage to the tail fin (c.f. Total length) and bill. Fork length is measured flat, from point to point, not by stretching a tape along
+the body surface, which would result in a longer measurement for full-bodied fish like tuna.",IOTC science glossary,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+M (natural mortality),,"Deaths of fish from all causes except fishing. Usually expressed as an instantaneous rate or as a
+percentage of fish dying in a year. See also F (fishing mortality), Mortality.",IOTC science glossary,,,,,,,,,,,,,,,
 Magnetic compass,,A navigational instrument that indicates a vessel's heading by aligning a magnetized needle or compass card with the Earth's magnetic field.,IMO terminology,,,,,TRUE,TRUE,,,,,,,,,
 Mainline,,longline fishing gear consists of a mainline kept near the surface or at a particular depth by means of regularly spaced floats or weights. Branchlines with baited hooks are attached to the mainline at regular intervals,IOTC glossary,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,,,
+Management objectives,," The social, economic, biological, ecosystem, and conservation goals specified for a given management
+unit (e.g. stock).",IOTC science glossary,,,,,,,,,,,,,,,
+Management options,, Alternative management procedures from which recommended management actions will be chosen.,IOTC science glossary,,,,,,,,,,,,,,,
+Management procedures,,"A set of formal actions, usually consisting of data collection, stock assessment (or other indicators),
+and harvest control rules, able to iteratively and adaptively provide robust decisions to manage a fishery.",IOTC science glossary,,,,,,,,,,,,,,,
+Management strategy evaluation,MSE,"Procedure whereby alternative management procedures' performance are tested and
+compared using stochastic simulations of stock and fishery dynamics against a set of management objectives.",IOTC science glossary,,,,,,,,,,,,,,,
 Mate,,The mate is also a ticketed officer second in command to the Captain and is often in charge of the fishing operations on the deck,observer manual 2019,,,,,,TRUE,,,,,,,,,
+Maximum economic yield,MEY,"The sustainable catch level for a commercial fishery that allows net economic returns to be
+maximised. Note that for most practical discount rates and fishing costs, MEY will imply that the equilibrium stock of fish is
+larger than that associated with MSY. In this sense, MEY is more environmentally conservative than MSY and should, in
+principle, help protect the fishery from unfavourable environmental impacts that may diminish the fish population.",IOTC science glossary,,,,,,,,,,,,,,,
+Maximum sustainable yield,MSY,"The maximum average annual catch that can be removed from a stock over an indefinite
+period under prevailing environmental conditions. MSY defined in this way makes no allowance for environmental variability,
+and studies have demonstrated that fishing at the level of MSY is often not sustainable (c.f. Long-term potential yield).",IOTC science glossary,,,,,,,,,,,,,,,
 Medium-scale fisheries*,,"Fish is caught in areas beyond national jurisdiction (ABNJ) of the flag state, by vessels with a length overall less than 24 m, and sold at landing sites, at markets, to processing factories",fishery types code list,the medium scale fishery is generally understood to be a fishery undertaken by powered boats and with small or medium size capital,FAO terminology portal,need to pick one?,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,,,
 Meridians,,"Imaginary lines that run from the North Pole to the South Pole, connecting points of equal longitude and used to measure longitude east or west of the Prime Meridian",IHO terminology,,,,,TRUE,TRUE,,,,,,,,,
 Medium Frequency Radio,MF radio,A radio communication system operating in the medium-frequency band (300 kHz-3 MHz) that provides medium-range voice and digital communications for maritime safety and operational purposes.,IMO terminology,,,,,TRUE,TRUE,,,,,,,,,
+Migration,,"Non-random movement of individuals of a stock from one place to another, often in groups.",IOTC science glossary,,,,,,,,,,,,,,,
+Minimum size,,"Size below which a captured animal may not legally be retained. Usually specified by species. May be varied as a
+management tool.",IOTC science glossary,,,,,,,,,,,,,,,
+Minor line,,"Refer to several line-fishing methods, including trolling or fishing using a rod and reel, handline, or pole-and-line.",IOTC science glossary,,,,,,,,,,,,,,,
+Mode; modal size,,See Length-frequency distribution.,IOTC science glossary,,,,,,,,,,,,,,,
+Model (population),,"Hypothesis of how a population functions; often uses mathematical descriptions of growth, recruitment and
+Mortality.",IOTC science glossary,,,,,,,,,,,,,,,
 Monsoon,,"Seasonal reversal in the prevailing wind direction and weather. A warm air mass with low pressure at the surface forms over the continent as it is warmed by the sun. Air from the relatively cooler and higher pressure air mass over the ocean then flows toward the low pressure over land. In winter this process is reversed as the air over the land becomes cooler, developing into a high pressure and winds blow off-shore towards the low pressure caused by the relatively warmer ocean. These conditions also influence the strength and direction of coastal currents",Based on WMO terminology,,,,,,TRUE,,,,,,,,,
+Mortality,,Deaths from all causes (usually expressed as a rate or as the proportion of the stock dying each year).,IOTC science glossary,,,,,,,,,,,,,,,
+MULTIFAN-CL,,"A length-based, age-structured model for stock assessment of fisheries.",IOTC science glossary,,,,,,,,,,,,,,,
 Multiple random sampling*,,,reference,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
 National jurisdiction areas,,Maritime areas over which a coastal State exercises sovereignty or sovereign rights and jurisdiction in accordance with international law.,UN definition (UNCLOS),,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
 National jurisdiction areas and beyond,,"Maritime areas that are either under the sovereignty or jurisdiction of a coastal State, or outside the jurisdiction of any State, as defined under international law.",UN definition (UNCLOS),,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
