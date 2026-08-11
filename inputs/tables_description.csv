@@ -1,0 +1,353 @@
+schema,table,description
+ros_meta,contact,
+ros_meta,focal_point,
+ros_meta,observer,
+ros_meta,observer_accreditation,
+ros_meta,observer_identifier_mapping,
+ros_meta,vessel,
+ros_meta,vessel_licensed_target_species,
+ros_common,additional_details_on_non_target_species,
+ros_common,biometric_information,
+ros_common,depredation_details,
+ros_common,observation_dataset,Entry point of any data
+ros_common,trip,
+ros_common,trip_daily_activities,
+ros_common,trip_daily_activity_details,
+ros_common,trip_observer,
+ros_common,trip_reasons_for_days_lost,
+ros_common,trip_vessel,
+ros_common,trip_vessel_fish_preservation_method,
+ros_common,trip_vessel_fish_storage_type,
+ros_common,trip_vessel_main_engines,
+ros_common,trip_waste_managements,
+ros_ps,additional_catch_details_on_ssi,
+ros_ps,catch_details,
+ros_ps,cetaceans_whale_shark_sightings,
+ros_ps,fishing_events,
+ros_ps,gear_specifications,
+ros_ps,object_details,
+ros_ps,setting_operations,
+ros_ps,setting_operations_cl_school_sighting_cues,
+ros_ps,specimens,
+ros_ps,tag_details,
+ros_ll,additional_catch_details_on_ssi,
+ros_ll,baits_by_conditions,
+ros_ll,biteoffs_by_branchlines_set,
+ros_ll,branchline_configurations,
+ros_ll,branchline_configurations_storage,
+ros_ll,branchline_sections,
+ros_ll,branchlines_set,
+ros_ll,catch_details,
+ros_ll,fishing_events,
+ros_ll,floatlines,
+ros_ll,gear_specifications,
+ros_ll,gear_specifications_mitigation_device,
+ros_ll,hauling_offal_disposal_positions,
+ros_ll,hauling_operations,
+ros_ll,hooks_by_type,
+ros_ll,leader_set,
+ros_ll,lights_by_type_and_colour,
+ros_ll,mitigation_measures,
+ros_ll,mitigation_measures_mitigation_devices,
+ros_ll,setting_operations,
+ros_ll,setting_operations_target_species,
+ros_ll,specimens,
+ros_ll,tag_details,
+ros_ll,tori_line_details,
+ros_pl,additional_catch_details_on_ssi,
+ros_pl,bait_fishing_event_pl_catch_detail,
+ros_pl,bait_fishing_events,
+ros_pl,bait_fishing_operations,
+ros_pl,baits_and_conditions,
+ros_pl,catch_details,
+ros_pl,gear_specifications,
+ros_pl,lures_or_jiggers_by_type,
+ros_pl,object_details,
+ros_pl,specimens,
+ros_pl,tag_details,
+ros_pl,tuna_fishing_event_pl_catch_detail,
+ros_pl,tuna_fishing_events,
+ros_pl,tuna_fishing_operations,
+ros_pl,tuna_fishing_operations_cl_school_sighting_cues,
+ros_pl,tuna_fishing_operations_target_species,
+ros_gn,additional_catch_details_on_ssi,
+ros_gn,catch_details,
+ros_gn,fishing_events,
+ros_gn,gear_specifications,
+ros_gn,gillnet_configuration,
+ros_gn,gillnet_configuration_net_web_colours,
+ros_gn,gillnet_configuration_stretched_mesh_sizes,
+ros_gn,hauling_operations,
+ros_gn,mitigation_measures,
+ros_gn,mitigation_measures_mitigation_devices,
+ros_gn,setting_operations,
+ros_gn,sinkers_by_type,
+ros_gn,specimens,
+ros_gn,tag_details,
+refs_admin,countries,
+refs_admin,cpc_history,
+refs_admin,cpc_to_flags,
+refs_admin,cpcs,
+refs_admin,entities,
+refs_admin,fleet_to_flags_and_fisheries,
+refs_admin,fleets,
+refs_admin,ports,
+refs_admin,species_reporting_requirements,
+refs_biology,bait_conditions,
+refs_biology,fates,
+refs_biology,gear_interactions,
+refs_biology,handling_methods,
+refs_biology,incidental_captures_conditions,
+refs_biology,measurement_tools,
+refs_biology,measurements,
+refs_biology,recommended_measurements,
+refs_biology,sampling_methods_for_catch_estimation,
+refs_biology,sampling_methods_for_sampling_collections,
+refs_biology,sampling_protocols,
+refs_biology,scars,
+refs_biology,sex,
+refs_biology,species,
+refs_biology,species_aggregates,
+refs_biology,species_categories,
+refs_biology,species_groups,
+refs_biology,tag_types,
+refs_biology,types_of_fate,
+refs_biology,types_of_measurement,
+refs_data,datasets,"Code list defining the types of datasets held by the IOTC Secretariat, with both short labels and descriptive metadata in English and French"
+refs_data,logical_responses,
+refs_data,processings,"Code list defining the processing method applied to data reported to IOTC, including catch and effort (CE/DA), discards (DI), fishing crafts (FC), retained catches (RC), and fish length/weight samples (SF). Each record describes the type of processing and estimation method."
+refs_data,sources,"Code list defining the source of data for catch, effort, discards, fishing crafts, retained catches, regional observer data, and fish length/weight samples. Each record describes the type of source and its monitoring method."
+refs_fishery,bait_fishing_methods,"
+[EN]
+Reference code list describing the methods used to capture live bait for fishing operations.
+
+[FR]
+Liste de référence décrivant les méthodes utilisées pour capturer des appâts vivants destinés aux opérations de pêche.
+"
+refs_fishery,branchline_storages,"
+[EN]
+Reference code list describing the storage methods used for branch lines on fishing vessels.
+
+[FR]
+Liste de référence décrivant les méthodes de stockage des avançons à bord des navires de pêche.
+"
+refs_fishery,dehooker_types,"
+[EN]
+Reference code list describing the types of dehooking and line-cutting devices used to remove hooks or release incidentally captured animals.
+
+[FR]
+Liste de référence décrivant les types d’outils de décrochage et de coupe utilisés pour retirer les hameçons ou libérer les captures accidentelles.
+"
+refs_fishery,fad_raft_designs,
+refs_fishery,fad_tail_designs,
+refs_fishery,fish_preservation_methods,
+refs_fishery,fish_processing_types,
+refs_fishery,fish_storage_types,"
+[EN]
+Reference code list describing the storage facilities or systems used onboard vessels to preserve and store fish catches.
+
+[FR]
+Liste de référence décrivant les installations ou systèmes de stockage utilisés à bord des navires pour conserver et entreposer les captures.
+"
+refs_fishery,fisheries,"
+[EN]
+Reference code list describing IOTC fisheries defined by combinations of operational, technical and biological characteristics that distinguish fishing practices among groups of vessels.
+
+[FR]
+Liste de référence décrivant les pêcheries de la CTOI définies par des combinaisons de caractéristiques opérationnelles, techniques et biologiques permettant de distinguer les pratiques de pêche entre groupes de navires.
+"
+refs_fishery,float_types,"
+[EN]
+Reference code list describing the materials or flotation devices used to provide buoyancy in fishing gear and fish aggregating devices.
+
+[FR]
+Liste de référence décrivant les matériaux ou dispositifs de flottabilité utilisés pour assurer la flottabilité des engins de pêche et des dispositifs de concentration de poissons.
+"
+refs_fishery,hook_and_terminal_devices,"
+[EN]
+Reference code list describing hook types and other terminal capture devices used in hook-and-line fishing operations.
+
+[FR]
+Liste de référence décrivant les types d'hameçons et autres dispositifs terminaux de capture utilisés dans les opérations de pêche à l'hameçon et à la ligne.
+"
+refs_fishery,hull_material_types,"
+[EN]
+Reference code list describing the main hull construction materials used for fishing vessels.
+
+[FR]
+Liste de référence décrivant les principaux matériaux de construction de la coque des navires de pêche.
+"
+refs_fishery,light_colours,"
+[EN]
+Reference code list describing light colours used in fishing operations and mitigation devices.
+
+[FR]
+Liste de référence décrivant les couleurs de lumière utilisées dans les opérations de pêche et les dispositifs de mitigation.
+"
+refs_fishery,light_types,"
+[EN]
+Reference code list describing the main types of artificial light used in fishing operations and mitigation devices.
+
+[FR]
+Liste de référence décrivant les principaux types de lumières artificielles utilisées dans les opérations de pêche et les dispositifs de mitigation.
+"
+refs_fishery,line_material_types,"
+[EN]
+Reference code list describing the types of materials used for mainlines and branchlines in hook-and-line fishing operations.
+
+[FR]
+Liste de référence décrivant les types de matériaux utilisés pour les lignes principales et les bas de ligne dans les opérations de pêche à l’hameçon et à la ligne.
+"
+refs_fishery,mitigation_devices,
+refs_fishery,net_colours,"
+[EN]
+Reference code list describing colours used for fishing nets and net components.
+
+[FR]
+Liste de référence décrivant les couleurs utilisées pour les filets de pêche et leurs composants.
+"
+refs_fishery,net_conditions,"
+[EN]
+Reference code list describing the condition of fishing nets in terms of physical damage, entanglement, or operational status observed during fishing activities.
+
+[FR]
+Liste de référence décrivant l’état des filets de pêche en termes de dommages physiques, d’emmêlement ou de condition opérationnelle observés lors des activités de pêche.
+"
+refs_fishery,net_configurations,"
+[EN]
+Reference code list describing the geometric configurations of net deployment during fishing operations.
+
+[FR]
+Liste de référence décrivant les configurations géométriques de mise à l’eau des filets lors des opérations de pêche.
+"
+refs_fishery,net_deploy_depths,"
+[EN]
+Reference code list describing the vertical deployment position of fishing nets in the water column.
+
+[FR]
+Liste de référence décrivant la position verticale de déploiement des filets de pêche dans la colonne d’eau.
+"
+refs_fishery,net_setting_strategies,"
+[EN]
+Reference code list describing net setting strategies used in fishing operations involving set and drifting nets, including gillnets.
+
+[FR]
+Liste de référence décrivant les stratégies de mise à l’eau des filets utilisées dans les opérations de pêche impliquant des filets calés et dérivants, y compris les filets maillants.
+"
+refs_fishery,reasons_days_lost,"
+[EN]
+Reference code list describing reasons for fishing days lost or not completed during fishing operations.
+
+[FR]
+Liste de référence décrivant les raisons des jours de pêche perdus ou non réalisés lors des opérations de pêche.
+"
+refs_fishery,school_detection_methods,
+refs_fishery,school_sighting_cues,
+refs_fishery,school_type_categories,"
+[EN]
+Reference code list classifying tuna schools according to their association status for reporting and analytical purposes. Categories are typically derived from more detailed school sighting cues and distinguish between free-swimming (unassociated) and associated schools.
+
+[FR]
+Liste de référence classifiant les bancs de thons selon leur statut d’association à des fins de déclaration et d’analyse. Les catégories sont généralement dérivées d’indices d’observation plus détaillés et distinguent les bancs libres (non associés) des bancs associés.
+"
+refs_fishery,sinker_material_types,"
+[EN]
+Reference code list describing the materials or weighting devices used as sinkers in fishing gear.
+
+[FR]
+Liste de référence décrivant les matériaux ou dispositifs de lestage utilisés comme plombs ou lest dans les engins de pêche.
+"
+refs_fishery,surface_fishery_activities,
+refs_fishery,vessel_types,"
+[EN]
+Reference code list describing fishing vessel types classified according to their primary gear or operational function, based on the FAO CWP International Standard Statistical Classification of Fishery Vessels (ISSCFV).
+
+[FR]
+Liste de référence décrivant les types de navires de pêche classés selon leur engin principal ou leur fonction opérationnelle, basée sur la Classification statistique internationale standard des navires de pêche (ISSCFV) du CWP de la FAO.
+"
+refs_fishery,waste_categories,"
+[EN]
+Reference code list describing categories of waste generated during fishing operations and onboard vessel activities.
+
+[FR]
+Liste de référence décrivant les catégories de déchets générés lors des opérations de pêche et des activités à bord des navires.
+"
+refs_fishery,waste_disposal_methods,"
+[EN]
+Reference code list describing the methods used for the disposal, treatment, retention, or discharge of waste generated during fishing operations and onboard vessel activities.
+
+[FR]
+Liste de référence décrivant les méthodes utilisées pour l’élimination, le traitement, la conservation à bord ou le rejet des déchets générés lors des opérations de pêche et des activités à bord des navires.
+"
+refs_fishery_config,areas_of_operation,
+refs_fishery_config,fishery_categories,"
+[EN]
+Reference code list describing the main fishery categories used by the IOTC to classify fisheries according to their fishing methods and operational characteristics.
+
+[FR]
+Liste de référence décrivant les principales catégories de pêcheries utilisées par la CTOI pour classifier les pêcheries selon leurs méthodes de pêche et leurs caractéristiques opérationnelles.
+"
+refs_fishery_config,fishery_purposes,"
+[EN]
+Reference code list describing the primary purpose of fishing activities or operations.
+
+[FR]
+Liste de référence décrivant l'objectif principal des activités ou opérations de pêche.
+"
+refs_fishery_config,fishery_types,"
+[EN]
+Reference code list describing fishery types based on the scale, purpose, vessel characteristics and area of operation of fishing activities.
+
+[FR]
+Liste de référence décrivant les types de pêcheries selon l'échelle, l'objectif, les caractéristiques des navires et la zone d'opération des activités de pêche.
+"
+refs_fishery_config,fishing_modes,"
+[EN]
+Reference code list describing fishing modes based on the behavioural or environmental context in which fishing activity occurs, particularly in purse seine and other surface fisheries.
+
+[FR]
+Liste de référence décrivant les modes de pêche en fonction du contexte comportemental ou environnemental dans lequel les activités de pêche se déroulent, en particulier pour les senneurs et autres pêcheries de surface.
+"
+refs_fishery_config,gear_configurations,"
+[EN]
+Reference code list describing fishing gear configurations and operational characteristics such as depth, hook numbers, or level of mechanisation used in fisheries.
+
+[FR]
+Liste de référence décrivant les configurations d’engins de pêche et leurs caractéristiques opérationnelles telles que la profondeur, le nombre d’hameçons ou le niveau de mécanisation utilisées dans les pêcheries.
+"
+refs_fishery_config,gear_fishery_type_to_configuration,
+refs_fishery_config,gear_fishery_type_to_fishing_mode,
+refs_fishery_config,gear_groups,"
+[EN]
+Reference code list describing fishing gear groups used to classify fisheries into standard categories, aligned with IOTC reporting and analytical requirements and mapped to ISSCFG gear groups or constituent gears.
+
+[FR]
+Liste de référence décrivant les groupes d’engins de pêche utilisés pour classer les pêcheries en catégories standard, alignées sur les exigences de déclaration et d’analyse de la CTOI et mappées aux groupes d’engins ISSCFG ou à leurs engins constitutifs.
+"
+refs_fishery_config,gear_to_fishery_type,
+refs_fishery_config,gear_to_target_species,
+refs_fishery_config,gears,"
+[EN]
+Reference code list describing fishing gears used in fisheries, aligned with ISSCFG gear definitions under the CWP standard.
+
+[FR]
+Liste de référence décrivant les engins de pêche utilisés dans les pêcheries, alignés sur les définitions des engins ISSCFG dans le cadre du standard CWP.
+"
+refs_fishery_config,loa_classes,"
+[EN]
+Reference code list describing vessel length overall (LOA) classes used to group vessels into standard size categories within IOTC fisheries.
+
+[FR]
+Liste de référence décrivant les classes de longueur hors tout (LOA) des navires utilisées pour regrouper les navires en catégories de taille standard dans les pêcheries de la CTOI.
+"
+refs_fishery_config,target_species,"
+[EN]
+Reference code list describing target species or species groups that represent the main fishing target within IOTC fisheries.
+
+[FR]
+Liste de référence décrivant les espèces ou groupes d’espèces représentant la cible principale des pêcheries de la CTOI.
+"
+refs_gis,area_intersections,
+refs_gis,area_types,
+refs_gis,areas,
+refs_meta,codelists_versions,
