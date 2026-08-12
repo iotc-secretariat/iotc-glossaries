@@ -10,27 +10,27 @@
 "ros","ros_meta","focal_point","email","character varying(255)","NO","[EN]: Email address of the focal point
 [FR]: Adresse électronique du point focal"
 "ros","ros_meta","focal_point","organisation_name","character varying(1024)","NO","[EN]: Name of the organisation represented by the focal point
-[FR]: Nom de l''organisation représentée par le point focal"
+[FR]: Nom de l'organisation représentée par le point focal"
 "ros","ros_meta","focal_point","comment","character varying(1024)","NO","[EN]: Additional comments or information about the focal point
 [FR]: Commentaires ou informations complémentaires concernant le point focal"
 "ros","ros_meta","observer","contact_id","integer","YES","[EN]: Identifier of the contact associated with the observer
-[FR]: Identifiant du contact associé à l''observateur scientifique"
+[FR]: Identifiant du contact associé à l'observateur scientifique"
 "ros","ros_meta","observer","iotc_observer_identifier","character varying(255)","YES","[EN]: Unique identifier assigned to the observer within the IOTC Regional Observer Scheme
-[FR]: Identifiant unique attribué à l''observateur dans le cadre du Mécanisme Régional d''Observateurs scientifiques de la CTOI"
+[FR]: Identifiant unique attribué à l'observateur dans le cadre du Mécanisme Régional d'Observateurs scientifiques de la CTOI"
 "ros","ros_meta","observer","national_observer_id","character varying(255)","NO","[EN]: Identifier assigned to the observer by the national authority
-[FR]: Identifiant attribué à l''observateur par l''autorité nationale"
+[FR]: Identifiant attribué à l'observateur par l'autorité nationale"
 "ros","ros_meta","observer_accreditation","observer_id","integer","YES","[EN]: Identifier of the observer
-[FR]: Identifiant de l''observateur scientifique"
+[FR]: Identifiant de l'observateur scientifique"
 "ros","ros_meta","observer_accreditation","accreditation_year","integer","NO","[EN]: Year in which the observer was accredited
-[FR]: Année d''accréditation de l''observateur scientifique"
+[FR]: Année d'accréditation de l'observateur scientifique"
 "ros","ros_meta","observer_accreditation","accredited_by","character varying(255)","NO","[EN]: Organisation or authority that accredited the observer
-[FR]: Organisation ou autorité ayant accrédité l''observateur scientifique"
+[FR]: Organisation ou autorité ayant accrédité l'observateur scientifique"
 "ros","ros_meta","observer_accreditation","deregistered_date","date","NO","[EN]: Date on which the observer was deregistered
-[FR]: Date à laquelle l''observateur scientifique a été désinscrit"
+[FR]: Date à laquelle l'observateur scientifique a été désinscrit"
 "ros","ros_meta","observer_identifier_mapping","legacy_iotc_observer_identifier","character varying(16)","YES","[EN]: Former IOTC observer identifier
-[FR]: Ancien identifiant de l''observateur scientifique de la CTOI"
+[FR]: Ancien identifiant de l'observateur scientifique de la CTOI"
 "ros","ros_meta","observer_identifier_mapping","iotc_observer_identifier","character varying(16)","YES","[EN]: Current IOTC observer identifier
-[FR]: Identifiant actuel de l''observateur scientifique de la CTO"
+[FR]: Identifiant actuel de l'observateur scientifique de la CTO"
 "ros","ros_meta","vessel","id","integer","YES","[EN]: Unique identifier of the vessel
 [FR]: Identifiant unique du navire"
 "ros","ros_meta","vessel","imo_identifier","character varying(255)","NO","[EN]: IMO number identifying the vessel
@@ -38,72 +38,127 @@
 "ros","ros_meta","vessel","iotc_vessel_identifier","character varying(255)","YES","[EN]: IOTC identifier assigned to the vessel
 [FR]: Identifiant CTOI attribué au navire"
 "ros","ros_meta","vessel","ircs_identifier","character varying(255)","NO","[EN] International Radio Call Sign identifying the vessel
-[FR] Indicatif international d''appel radio identifiant le navire"
+[FR] Indicatif international d'appel radio identifiant le navire"
 "ros","ros_meta","vessel","vessel_name","character varying(255)","YES","[EN] Name of the vessel
 [FR] Nom du navire"
 "ros","ros_meta","vessel","registration_identifier","character varying(255)","NO","[EN] Registration identifier of the vessel
-[FR] Identifiant d''immatriculation du navire"
-"ros","ros_meta","vessel","main_fishing_gear_code","character varying(16)","YES","[EN] Code identifying the vessel''s main fishing gear
+[FR] Identifiant d'immatriculation du navire"
+"ros","ros_meta","vessel","main_fishing_gear_code","character varying(16)","YES","[EN] Code identifying the vessel's main fishing gear
 [FR] Code identifiant le principal engin de pêche du navire"
-"ros","ros_meta","vessel","flag_code","character(3)","NO","[EN] Three-letter country code indicating the vessel''s flag State
-[FR] Code à trois lettres indiquant l''État du pavillon du navire"
-"ros","ros_meta","vessel","port_code","character varying(16)","NO","[EN] Code identifying the vessel''s port
+"ros","ros_meta","vessel","flag_code","character(3)","NO","[EN] Three-letter country code indicating the vessel's flag State
+[FR] Code à trois lettres indiquant l'État du pavillon du navire"
+"ros","ros_meta","vessel","port_code","character varying(16)","NO","[EN] Code identifying the vessel's port
 [FR] Code identifiant le port du navire"
-"ros","ros_meta","vessel_licensed_target_species","vessel_id","integer","YES",
-"ros","ros_meta","vessel_licensed_target_species","licensed_target_species_code","character varying(16)","NO",
-"ros","ros_common","additional_details_on_non_target_species","id","integer","YES",
-"ros","ros_common","additional_details_on_non_target_species","condition_at_capture_code","character varying(3)","NO",
-"ros","ros_common","additional_details_on_non_target_species","condition_at_release_code","character varying(3)","NO",
-"ros","ros_common","biometric_information","id","integer","YES",
-"ros","ros_common","biometric_information","bio_collection_sampling_method_code","character(2)","NO",
-"ros","ros_common","biometric_information","sex_code","character(1)","NO",
-"ros","ros_common","biometric_information","estimated_weight_value","double precision","NO",
-"ros","ros_common","biometric_information","estimated_weight_unit","character varying(3)","NO",
-"ros","ros_common","biometric_information","estimated_weight_type_of_measurement_code","character(2)","NO",
-"ros","ros_common","biometric_information","estimated_weight_processing_type_code","character(2)","NO",
-"ros","ros_common","biometric_information","estimated_weight_method_code","character(2)","NO",
-"ros","ros_common","biometric_information","maturity_stage_level","integer","NO",
-"ros","ros_common","biometric_information","maturity_stage_scale","character varying(255)","NO",
-"ros","ros_common","biometric_information","alternative_measured_length_value","double precision","NO",
-"ros","ros_common","biometric_information","alternative_measured_length_unit","character varying(3)","NO",
-"ros","ros_common","biometric_information","alternative_measured_length_type_of_measurement_code","character(2)","NO",
-"ros","ros_common","biometric_information","alternative_measured_length_measured_length_type_code","character(2)","NO",
-"ros","ros_common","biometric_information","alternative_measured_length_length_measuring_tool_code","character(2)","NO",
-"ros","ros_common","biometric_information","measured_length_value","double precision","NO",
-"ros","ros_common","biometric_information","measured_length_unit","character varying(3)","NO",
-"ros","ros_common","biometric_information","measured_length_type_of_measurement_code","character(2)","NO",
-"ros","ros_common","biometric_information","measured_length_measured_length_type_code","character(2)","NO",
-"ros","ros_common","biometric_information","measured_length_length_measuring_tool_code","character(2)","NO",
-"ros","ros_common","biometric_information","sample_collection_detail_destination","character varying(255)","NO",
-"ros","ros_common","biometric_information","sample_collection_detail_preservation_method","text","NO",
-"ros","ros_common","biometric_information","sample_collection_detail_sample_type","character varying(255)","NO",
-"ros","ros_common","biometric_information","alternative_measured_length_straight","character varying(5)","NO",
-"ros","ros_common","biometric_information","measured_length_straight","character varying(5)","NO",
-"ros","ros_common","depredation_details","id","integer","YES",
-"ros","ros_common","depredation_details","depredation_source_code","character varying(3)","NO",
-"ros","ros_common","depredation_details","predator_observed_code","character varying(16)","NO",
-"ros","ros_common","observation_dataset","id","integer","YES","Technical identifier of the observer data"
-"ros","ros_common","observation_dataset","vessel_type_code","character(3)","YES",
-"ros","ros_common","observation_dataset","reporting_country_code","character(3)","YES",
-"ros","ros_common","observation_dataset","complete","boolean","YES",
-"ros","ros_common","observation_dataset","creation_time","timestamp(6) without time zone","YES",
-"ros","ros_common","observation_dataset","originator","character varying(255)","YES",
-"ros","ros_common","observation_dataset","originator_version","character varying(255)","YES",
-"ros","ros_common","observation_dataset","ros_codelists_version","character varying(255)","YES",
-"ros","ros_common","observation_dataset","ros_model_version","character varying(255)","YES",
-"ros","ros_common","observation_dataset","source","character varying(255)","YES",
-"ros","ros_common","observation_dataset","status","character varying(255)","YES",
-"ros","ros_common","observation_dataset","submission_time","timestamp(6) without time zone","NO",
-"ros","ros_common","observation_dataset","finalization_time","timestamp(6) without time zone","NO",
-"ros","ros_common","observation_dataset","submitter_id","integer","YES",
-"ros","ros_common","observation_dataset","reporting_year","integer","NO",
-"ros","ros_common","observation_dataset","reporting_entity_code","character varying(4)","NO",
-"ros","ros_common","observation_dataset","reporting_source_dataset_code","character(2)","NO",
-"ros","ros_common","observation_dataset","reporting_source_code","character(2)","NO",
-"ros","ros_common","trip","id","integer","YES",
-"ros","ros_common","trip","trip_original_id","character varying(255)","YES",
-"ros","ros_common","trip","observation_dataset_id","integer","YES",
-"ros","ros_common","trip","uid","character varying(255)","YES",
+"ros","ros_meta","vessel_licensed_target_species","vessel_id","integer","YES","[EN] Identifier of the vessel
+[FR] Identifiant du navire"
+"ros","ros_meta","vessel_licensed_target_species","licensed_target_species_code","character varying(16)","NO","[EN] Code identifying a species for which the vessel is licensed to fish
+[FR] Code identifiant une espèce pour laquelle le navire est autorisé à pêcher"
+"ros","ros_common","additional_details_on_non_target_species","id","integer","YES","[EN] Unique identifier of the non-target species record
+[FR] Identifiant unique de l'enregistrement relatif à l'espèce non ciblée"
+"ros","ros_common","additional_details_on_non_target_species","condition_at_capture_code","character varying(3)","NO","[EN] Code indicating the condition of the non-target species at capture
+[FR] Code indiquant l'état de l'espèce non ciblée au moment de la capture"
+"ros","ros_common","additional_details_on_non_target_species","condition_at_release_code","character varying(3)","NO","[EN] Code indicating the condition of the non-target species at release
+[FR] Code indiquant l'état de l'espèce non ciblée au moment de la remise à l'eau'"
+"ros","ros_common","biometric_information","id","integer","YES","Unique identifier of the biometric information record
+[FR] Identifiant unique de l'enregistrement des informations biométriques"
+"ros","ros_common","biometric_information","bio_collection_sampling_method_code","character(2)","NO","[EN] Code identifying the method used to collect the biological sample
+[FR] Code identifiant la méthode utilisée pour prélever l'échantillon biologique"
+"ros","ros_common","biometric_information","sex_code","character(1)","NO","[EN] Code indicating the sex of the specimen
+[FR] Code indiquant le sexe du spécimen"
+"ros","ros_common","biometric_information","estimated_weight_value","double precision","NO","[EN] Estimated weight value of the specimen
+[FR] Valeur du poids estimé du spécimen"
+"ros","ros_common","biometric_information","estimated_weight_unit","character varying(3)","NO","[EN] Unit used for the estimated weight
+[FR] Unité utilisée pour le poids estimé"
+"ros","ros_common","biometric_information","estimated_weight_type_of_measurement_code","character(2)","NO","'[EN] Code identifying the type of measurement used to estimate the weight
+[FR] Code identifiant le type de mesure utilisé pour estimer le poids"
+"ros","ros_common","biometric_information","estimated_weight_processing_type_code","character(2)","NO","[EN] Code identifying the processing state of the specimen to which the estimated weight refers
+[FR] Code identifiant l'état de transformation du spécimen auquel se rapporte le poids estimé"
+"ros","ros_common","biometric_information","estimated_weight_method_code","character(2)","NO","[EN] Code identifying the method used to estimate the weight
+[FR] Code identifiant la méthode utilisée pour estimer le poids"
+"ros","ros_common","biometric_information","maturity_stage_level","integer","NO","[EN] Maturity stage level of the specimen derived from macroscopic exam of the gonads
+[FR] Niveau de maturité du spécimen dérivé de l'examen macroscopique des gonades"
+"ros","ros_common","biometric_information","maturity_stage_scale","character varying(255)","NO","[EN] Scale used to record the maturity stage
+[FR] Échelle utilisée pour enregistrer le stade de maturité"
+"ros","ros_common","biometric_information","alternative_measured_length_value","double precision","NO","EN] Alternative measured length value of the specimen
+[FR] Valeur de la longueur mesurée alternative du spécimen"
+"ros","ros_common","biometric_information","alternative_measured_length_unit","character varying(3)","NO","[EN] Unit used for the alternative measured length
+[FR] Unité utilisée pour la longueur mesurée alternative"
+"ros","ros_common","biometric_information","alternative_measured_length_type_of_measurement_code","character(2)","NO","[EN] Code identifying the type of measurement used for the alternative measured length
+[FR] Code identifiant le type de mesure utilisé pour la longueur mesurée alternative"
+"ros","ros_common","biometric_information","alternative_measured_length_measured_length_type_code","character(2)","NO","[EN] Code identifying the type of length measured as the alternative length
+[FR] Code identifiant le type de longueur mesurée correspondant à la longueur alternative"
+"ros","ros_common","biometric_information","alternative_measured_length_length_measuring_tool_code","character(2)","NO","[EN] Code identifying the tool used to measure the alternative length
+[FR] Code identifiant l'outil utilisé pour mesurer la longueur alternative"
+"ros","ros_common","biometric_information","measured_length_value","double precision","NO","[EN] Measured length value of the specimen
+[FR] Valeur de la longueur mesurée du spécimen"
+"ros","ros_common","biometric_information","measured_length_unit","character varying(3)","NO","[EN] Unit used for the measured length
+[FR] Unité utilisée pour la longueur mesurée"
+"ros","ros_common","biometric_information","measured_length_type_of_measurement_code","character(2)","NO","[EN] Code identifying the type of measurement used for the measured length
+[FR] Code identifiant le type de mesure utilisé pour la longueur mesurée"
+"ros","ros_common","biometric_information","measured_length_measured_length_type_code","character(2)","NO","[EN] Code identifying the type of length measured
+[FR] Code identifiant le type de longueur mesurée"
+"ros","ros_common","biometric_information","measured_length_length_measuring_tool_code","character(2)","NO","[EN] Code identifying the tool used to measure the length
+[FR] Code identifiant l'outil utilisé pour mesurer la longueur"
+"ros","ros_common","biometric_information","sample_collection_detail_destination","character varying(255)","NO","[EN] Destination of the biological sample after collection
+[FR] Destination de l'échantillon biologique après prélèvement"
+"ros","ros_common","biometric_information","sample_collection_detail_preservation_method","text","NO","[EN] Method used to preserve the biological sample
+[FR] Méthode utilisée pour conserver l'échantillon biologique"
+"ros","ros_common","biometric_information","sample_collection_detail_sample_type","character varying(255)","NO","[EN] Type of biological sample collected
+[FR] Type d'échantillon biologique prélevé"
+"ros","ros_common","biometric_information","alternative_measured_length_straight","character varying(5)","NO","[EN] Indicator specifying whether the alternative measured length is a straight length
+[FR] Indicateur précisant si la longueur mesurée alternative est une longueur en ligne droite"
+"ros","ros_common","biometric_information","measured_length_straight","character varying(5)","NO","[EN] Indicator specifying whether the measured length is a straight length
+[FR] Indicateur précisant si la longueur mesurée est une longueur en ligne droite"
+"ros","ros_common","depredation_details","id","integer","YES","[EN] Unique identifier of the depredation record
+[FR] Identifiant unique de l'enregistrement de déprédation"
+"ros","ros_common","depredation_details","depredation_source_code","character varying(3)","NO","[EN] Code identifying the source of depredation
+[FR] Code identifiant la source de la déprédation"
+"ros","ros_common","depredation_details","predator_observed_code","character varying(16)","NO","[EN] Code identifying the predator observed during the depredation event
+[FR] Code identifiant le prédateur observé lors de l'événement de déprédation"
+"ros","ros_common","observation_dataset","id","integer","YES","[EN] Unique identifier of the observation dataset
+[FR] Identifiant unique du jeu de données d'observations"
+"ros","ros_common","observation_dataset","vessel_type_code","character(3)","YES","[EN] Code identifying the type of vessel covered by the observation dataset
+[FR] Code identifiant le type de navire couvert par le jeu de données d'observations"
+"ros","ros_common","observation_dataset","reporting_country_code","character(3)","YES","[EN] Three-letter country code identifying the country reporting the observation dataset
+[FR] Code à trois lettres identifiant le pays déclarant le jeu de données d'observations"
+"ros","ros_common","observation_dataset","complete","boolean","YES","[EN] Indicates whether the observation dataset is complete
+[FR] Indique si le jeu de données d'observations est complet"
+"ros","ros_common","observation_dataset","creation_time","timestamp(6) without time zone","YES","[EN] Date and time when the observation dataset was created
+[FR] Date et heure de création du jeu de données d'observations"
+"ros","ros_common","observation_dataset","originator","character varying(255)","YES","[EN] Organisation or system that originally created the observation dataset
+[FR] Organisation ou système ayant créé à l'origine le jeu de données d'observations"
+"ros","ros_common","observation_dataset","originator_version","character varying(255)","YES","[EN] Version of the system or data model used by the originator
+[FR] Version du système ou du modèle de données utilisé par l'auteur d'origine"
+"ros","ros_common","observation_dataset","ros_codelists_version","character varying(255)","YES","[EN] Version of the ROS reference codelists used for the observation dataset
+[FR] Version des listes de codes de référence du Mécanisme Régional d'Observateurs scientifiques utilisée pour le jeu de données d'observations"
+"ros","ros_common","observation_dataset","ros_model_version","character varying(255)","YES","[EN] Version of the ROS data model used for the observation dataset
+[FR] Version du modèle de données du Mécanisme Régional d'Observateurs scientifiques utilisée pour le jeu de données d'observations"
+"ros","ros_common","observation_dataset","source","character varying(255)","YES","[EN] Source system or application from which the observation dataset originates
+[FR] Système ou application à l'origine du jeu de données d'observations"
+"ros","ros_common","observation_dataset","status","character varying(255)","YES","[EN] Current status of the observation dataset
+[FR] Statut actuel du jeu de données d'observations"
+"ros","ros_common","observation_dataset","submission_time","timestamp(6) without time zone","NO","[EN] Date and time when the observation dataset was submitted
+[FR] Date et heure de soumission du jeu de données d'observations"
+"ros","ros_common","observation_dataset","finalization_time","timestamp(6) without time zone","NO","[EN] Date and time when the observation dataset was finalised
+[FR] Date et heure de finalisation du jeu de données d'observations"
+"ros","ros_common","observation_dataset","submitter_id","integer","YES","[EN] Identifier of the person or entity that submitted the observation dataset
+[FR] Identifiant de la personne ou de l'entité ayant soumis le jeu de données d'observations"
+"ros","ros_common","observation_dataset","reporting_year","integer","NO","[EN] Year to which the reported observation data relate
+[FR] Année à laquelle se rapportent les données d'observations déclarées"
+"ros","ros_common","observation_dataset","reporting_entity_code","character varying(4)","NO","[EN] Code identifying the entity responsible for reporting the observation dataset
+[FR] Code identifiant l'entité responsable de la déclaration du jeu de données d'observations"
+"ros","ros_common","observation_dataset","reporting_source_dataset_code","character(2)","NO","[EN] Code identifying the dataset from which the observation data were reported
+[FR] Code identifiant le jeu de données à partir duquel les données d'observations ont été déclarées"
+"ros","ros_common","observation_dataset","reporting_source_code","character(2)","NO","[EN] Code identifying the source from which the observation data were reported
+[FR] Code identifiant la source à partir de laquelle les données d'observations ont été déclarées"
+"ros","ros_common","trip","id","integer","YES","[EN] Unique identifier of the trip
+[FR] Identifiant unique de la marée"
+"ros","ros_common","trip","trip_original_id","character varying(255)","YES","[EN] Original identifier assigned to the trip by the reporting system
+[FR] Identifiant d'origine attribué à la marée par le système déclarant"
+"ros","ros_common","trip","observation_dataset_id","integer","YES","[EN] Identifier of the observation dataset to which the trip belongs
+[FR] Identifiant du jeu de données d'observations auquel appartient la marée"
+"ros","ros_common","trip","uid","character varying(255)","YES","[EN] Unique identifier of the trip used for data integration
+[FR] Identifiant unique de la marée utilisé pour l'intégration des données"
 "ros","ros_common","trip_daily_activities","trip_id","integer","YES",
 "ros","ros_common","trip_daily_activities","id","integer","YES",
 "ros","ros_common","trip_daily_activities","date","timestamp(3) without time zone","YES",
