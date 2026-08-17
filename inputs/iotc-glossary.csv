@@ -283,18 +283,18 @@ Installation coverage,,The percentage of vessels equipped with electronic monito
 Instrumented buoy,,A buoy with a clearly marked with a unique reference number allowing identification of its owner and equipped with a satellite tracking system to monitor its position (Res. [19/02](https://iotc.org/cmm/resolution-1902-procedures-fish-aggregating-devices-fads-management-plan)),IOTC resolution 19/02,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,,,
 "IOTC, Commission",,The Indian Ocean Tuna Commission established in 1993 at the 105th Session of the Council of the Food and Agriculture Organization of the United Nations under Article XIV of the FAO Constitution.,IOTC-2025-CoC22-11_Add4-IOTC Glossary,,,,,,,,,,,,,,,
 IOTC active vessel list,AVL,"The list of vessels having operated in the IOTC area of competence in a given year, including fishing and non-fishing vessels of 24 m length overall and over",IOTC resolution 10/08,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
-IOTC Agreement,,The 1993 Agreement for the establishment of the Indian Ocean Tuna Commission,IOTC-2024-CoC21-12a,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
-IOTC Area of Competence,,"The area of competence of the Indian Ocean Tuna Commission as defined in Article II of, and Annex A to, the IOTC Agreement.",IOTC-2024-CoC21-12a,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+IOTC Agreement,,The 1993 Agreement for the establishment of the Indian Ocean Tuna Commission,IOTC-2025-CoC22-11_Add4-IOTC Glossary,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+IOTC Area of Competence,,"The area of competence of the Indian Ocean Tuna Commission as defined in Article II of, and Annex A to, the IOTC Agreement.",IOTC-2025-CoC22-11_Add4-IOTC Glossary,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
 IOTC Conservation and Management Measures,CMM,"consist of Resolutions, which are binding on Members, subject to Article IX para 5 of the IOTC Agreement, and Recommendations, which are non-binding, as specified in Article IX of the Agreement",IOTC-2025-CoC22-11_Add4-IOTC Glossary,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
 IOTC observer,,An observer appointed pursuant to the IOTC Regional Observer Scheme under Resolution 11/04 and Resolution 19/06 and any superseding Resolution,IOTC-2025-CoC22-11_Add4-IOTC Glossary,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
-IOTC Record of Authorized vessels,RAV,"The IOTC record of vessels authorised to operate in the IOTC Area of Competence"", established under Resolution 19/04, or any superseding Resolution.",IOTC-2024-CoC21-12a,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+IOTC Record of Authorized vessels,RAV,"The IOTC record of vessels authorised to operate in the IOTC Area of Competence"", established under Resolution 19/04, or any superseding Resolution",IOTC-2025-CoC22-11_Add4-IOTC Glossary,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
 IOTC species*,,Any or all of the 16 tuna and tuna-like species listed in Annex B of the IOTC Agreement,IOTC data reporting guidelines,,,Definitions from IOTC materials reference an attached table with a list of the species. ,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
 IOTC species of special interest,,"Species of Special Interest include all marine turtles, all marine mammals, all seabirds, shark species with a retention ban: whale sharks (Res 13/05), oceanic white tip sharks (Res 13/06) and thresher sharks (Res 12/09.); and billfish species included in Res 18/05: striped, black and blue marlin and Indo-Pacific sailfish (IOTC-2018-SC21-R[E])",Based on IOTC resolutions,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
 IOTC stocks,,The populations of the IOTC species which are located in the IOTC area of competence or migrate into or out of the area IOTC Agreement,Guidelines for the reporting of fishery statistics to the IOTC,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
 International Radio Call Sign,IRCS,A unique identification signal assigned to a vessel by its flag State administration for use in radio communications.,IMO terminology,,,to define,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,,,
 Isobath,,Contour line linking points of the same depth,IOTC science glossary,,,,,,,,,,,,,,,
 Isotherm,,Contour line linking points of the same temperature.,IOTC science glossary,,,,,,,,,,,,,,,
-IUU fishing activity,,"Any activity defined as an illegal, unreported or unregulated (IUU) fishing activity in Resolution 18/03 or any superseding Resolution",IOTC-2024-CoC21-12a,,,,,,,,,,,,,,,
+IUU fishing activity,,"Any activity defined as an illegal, unreported or unregulated (IUU) fishing activity in Resolution 18/03 or any superseding Resolution",IOTC-2025-CoC22-11_Add4-IOTC Glossary,,,,,,,,,,,,,,,
 Joint venture,,"Collaborative fishing operation, usually involving two companies from different countries",IOTC science glossary,,,,,,,,,,,,,,,
 Key commercial species,,"A species that is, or has been, specifically targeted and is, or has been, a significant component of a fishery",IOTC science glossary,,,,,,,,,,,,,,,
 Landing,,"All transfers of any quantity of fish onboard from a vessel to land, other than transshipment, including transfers of fish to a port facility, transfers of fish from one vessel to another through a port facility or other means of transportation, and transfers of fish from a vessel to a container, truck, train, aircraft",IOTC-2025-CoC22-11_Add4-IOTC Glossary,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
@@ -349,7 +349,7 @@ Management procedures,,"A set of formal actions, usually consisting of data coll
 and harvest control rules, able to iteratively and adaptively provide robust decisions to manage a fishery.",IOTC science glossary,,,,,,,,,,,,,,,
 Management strategy evaluation,MSE,"Procedure whereby alternative management procedures' performance are tested and
 compared using stochastic simulations of stock and fishery dynamics against a set of management objectives.",IOTC science glossary,,,,,,,,,,,,,,,
-Master,,"Means any person holding the most responsible position at any given time onboard a fishing vessel, as defined in Resolution 18/03, or any superseding Resolution",,,,,,,,,,,,,,,,
+Master,,"Means any person holding the most responsible position at any given time onboard a fishing vessel, as defined in Resolution 18/03, or any superseding Resolution",IOTC-2025-CoC22-11_Add4-IOTC Glossary,,,,,,,,,,,,,,,
 Mate,,The mate is also a ticketed officer second in command to the Captain and is often in charge of the fishing operations on the deck,observer manual 2019,,,,,,TRUE,,,,,,,,,
 Maximum economic yield,MEY,"The sustainable catch level for a commercial fishery that allows net economic returns to be
 maximised. Note that for most practical discount rates and fishing costs, MEY will imply that the equilibrium stock of fish is
@@ -365,7 +365,7 @@ Migration,,"Non-random movement of individuals of a stock from one place to anot
 Minimum size,,"Size below which a captured animal may not legally be retained. Usually specified by species. May be varied as a
 management tool.",IOTC science glossary,,,,,,,,,,,,,,,
 Minor line,,"Refer to several line-fishing methods, including trolling or fishing using a rod and reel, handline, or pole-and-line.",IOTC science glossary,,,,,,,,,,,,,,,
-Mobile transceiver unit,,"A device approved by the competent authority of the flag State which is installed on board a fishing vessel and is designed to automatically transmit, whether independently or in conjunction with another device or devices, information or data concerning position, fishing, catch and such other activities as may be required, and allows detection and identification of the fishing vessel at all times",IOTC-2024-CoC21-12a,,,noted in document that definition is to be revised by VMS WG,,,,,,,,,,,,
+Mobile transceiver unit,,"A device approved by the competent authority of the flag State which is installed on board a fishing vessel and is designed to automatically transmit, whether independently or in conjunction with another device or devices, information or data concerning position, fishing, catch and such other activities as may be required, and allows detection and identification of the fishing vessel at all times",IOTC-2025-CoC22-11_Add4-IOTC Glossary,,,noted in document that definition is to be revised by VMS WG,,,,,,,,,,,,
 Mode; modal size,,See Length-frequency distribution.,IOTC science glossary,,,,,,,,,,,,,,,
 Model (population),,"Hypothesis of how a population functions; often uses mathematical descriptions of growth, recruitment and
 Mortality.",IOTC science glossary,,,,,,,,,,,,,,,
@@ -405,7 +405,7 @@ allowed to operate in the fishery",IOTC science glossary,,,,,,,,,,,,,,,
 Operating model,,"Model simulation of stock and fishery dynamics, including sources of uncertainty, used in management
 strategy evaluation.",IOTC science glossary,,,,,,,,,,,,,,,
 Operational buoy,,"any instrumented buoy, previously activated, switched on and deployed at sea on a drifting FAD or log",Resolution 19/02 (https://iotc.org/cmm/resolution-1902-procedures-fish-aggregating-devices-fads-management-plan),,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,,,
-Operator,,"Means the natural or legal person who is responsible for taking commercial decisions regarding the management and operation of a vessel and includes a charterer of the vessel, as defined in Resolution 18/03 or any superseding Resolution",IOTC-2024-CoC21-12a,,,,,,,,,,,,,,,
+Operator,,"Means the natural or legal person who is responsible for taking commercial decisions regarding the management and operation of a vessel and includes a charterer of the vessel, as defined in Resolution 18/03 or any superseding Resolution",IOTC-2025-CoC22-11_Add4-IOTC Glossary,,,,,,,,,,,,,,,
 Opportunity cost,,"The compensation a resource forgoes by being employed in its present use and not in the next best alternative.
 For example, the opportunity costs incurred by the skipper of a fishing vessel is the amount they would have received by applying
 their skill and knowledge in the next best alternative occupation. The opportunity cost of owning a fishing vessel might be the
@@ -427,7 +427,7 @@ Any fishing mortality will be defined as overfishing if the stock level is below
 that will allow the stock to recover within a period of 10 years plus one mean generation time, or three times the mean
 generation time, whichever is less.
 Any directed (targeted) fishing of an overfished stock (stock level is below BLIM) will amount to overfishing.",IOTC science glossary,,,,,,,,,,,,,,,
-Owner,,"Means the natural or legal person registered as the owner of a vessel, as defined in Resolution 18/03 or any superseding Resolution",IOTC-2024-CoC21-12a,,,,,,,,,,,,,,,
+Owner,,"Means the natural or legal person registered as the owner of a vessel, as defined in Resolution 18/03 or any superseding Resolution",IOTC-2025-CoC22-11_Add4-IOTC Glossary,,,,,,,,,,,,,,,
 Parameter,,"Characteristic feature or measure of some aspect of a stock, usually expressed as a numerical value (e.g. see M (natural mortality)).",IOTC science glossary,,,,,,,,,,,,,,,
 Parental biomass,,Weight of the adult (reproductively mature) population of a species. See also Spawning biomass.,IOTC science glossary,,,,,,,,,,,,,,,
 Pelagic,,Inhabiting surface waters rather than the sea floor. Usually applied to free-swimming species such as tunas and sharks (c.f. Demersal).,IOTC science glossary,"Relating to, living or occurring in the open sea.",FAO terminology portal,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
@@ -438,7 +438,7 @@ then use poles with short, fixed lines and lures to 'pole' the fish aboard.",IOT
 Pole-and-lines,,"consists of a hooked line attached to a pole. This method is common to sport fisheries (angling) but it is also used in commercial fisheries. Fishing rods/poles are made of wood (including bamboo, also constructed of split cane) and increasingly of fiberglass",IOTC data catalogue fishery categories,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,,TRUE,
 Pool of observers,,means a list of IOTC recognised observers that have been allocated an IOTC registration number and trained according to IOTC standards who may be called upon by other flag States,IOTC Resolution 25/06,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
 Population structure,,"Composition of a population in terms of size, stock (genetic or regional), age class, sex, etc.",IOTC science glossary,,,,,,,,,,,,,,,
-Port,,"Includes offshore terminals and other installations for landing, transhipping, packaging, processing, refuelling or resupplying",IOTC-2024-CoC21-12a,,,,,TRUE,TRUE,,,,,,,,,
+Port,,"Includes offshore terminals and other installations for landing, transhipping, packaging, processing, refuelling or resupplying",IOTC-2025-CoC22-11_Add4-IOTC Glossary,,,,,TRUE,TRUE,,,,,,,,,
 Port of registration,,The port recorded in a vessel's registration documents as the official port associated with the vessel's registration under its flag State,IMO term,,,,,TRUE,TRUE,,,,,,,,,
 Potential structure,,See Long-term potential yield.,IOTC science glossary,,,,,,,,,,,,,,,
 Power block,,"A mechanized pulley used to haul in nets, purse seine, etc.",FAO terminology (https://www.fao.org/faoterm/en/),,,,,TRUE,TRUE,,,,,,,,,
@@ -560,7 +560,7 @@ Systematic random sampling (priority species),,"Individuals are selected systema
 Tagging,,"Marking or attaching a tag to an animal so that it can be identified when recaptured; used to study fish growth,
 movement, migration, stock structure and size. See also Archival tag.",IOTC science glossary,,,,,,,,,,,,,,,
 Target fishing (targeting),,Fishing selectively for particular species or sizes of fish.,IOTC science glossary,,,,,,,,,,,,,,,
-Target references point,TRP,A benchmark which assesses the performance of management in achieving one or more operational management objectives and indicates the desirable status of a fishery or a resource.,IOTC-2024-CoC21-12a,,,,,,,,,,,,,,,
+Target references point,TRP,A benchmark which assesses the performance of management in achieving one or more operational management objectives and indicates the desirable status of a fishery or a resource.,IOTC-2025-CoC22-11_Add4-IOTC Glossary,,,,,,,,,,,,,,,
 Target species*,,Species that are primarily sought in a particular fishery and are the subject of directed fishing effort. There may be primary and secondary target species,FAO terminology (https://www.fao.org/faoterm/en/),See Key commercial species.,IOTC science glossary,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
 Taxonomic group,,"An organism's location in the biological classification system; used to identify and group those with similar
 physical, chemical and/or structural composition.",IOTC science glossary,,,,,,,,,,,,,,,
@@ -595,7 +595,7 @@ Uninterruptable power supply,UPS,Provides power to the system and enables contro
 Upper-jaw fork length,FL,Straight distance between the tip of the upper jaw and the fork of the tail,IOTC Reference Data Catalogue ,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
 Electronic monitoring user interface,,A display that communicates electronic monitoring system status messages and provides views of onboard cameras,EM workshop-WCPFC term only,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,,,
 Vertical lines,,A vertical line consists of a line to which is attached sinker and one or several hooks. In commercial fisheries the lines have usually several hooks. The additional hooks can be fixed on the mainline at short intervals with branch lines of a certain length. The line weighed down by sinkers can be set up to 200 m depth and is hauled with jerky movements,IOTC Reference Data Catalogue ,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,,,
-Vessel,,"Any vessel, ship of another type or boat used, equipped to be used, or intended to be used for fishing or fishing related activities.",IOTC-2024-CoC21-12a,,,,,,,,,,,,,,,
+Vessel,,"Any vessel, ship of another type or boat used, equipped to be used, or intended to be used for fishing or fishing related activities.",IOTC-2025-CoC22-11_Add4-IOTC Glossary,,,,,,,,,,,,,,,
 Vessel-level efficiency,,"Vessel-level efficiency requires that revenues be maximised and catching costs be minimised for a given
 quantity of catch. The choice of management regime will have a substantial bearing on whether vessel-level efficiency is
 achieved, as it largely defines the incentive structure that fishers operate within.",IOTC science glossary,,,,,,,,,,,,,,,
