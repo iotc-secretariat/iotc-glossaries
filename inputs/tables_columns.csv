@@ -159,99 +159,192 @@
 [FR] Identifiant du jeu de données d'observations auquel appartient la marée"
 "ros","ros_common","trip","uid","character varying(255)","YES","[EN] Unique identifier of the trip used for data integration
 [FR] Identifiant unique de la marée utilisé pour l'intégration des données"
-"ros","ros_common","trip_daily_activities","trip_id","integer","YES",
-"ros","ros_common","trip_daily_activities","id","integer","YES",
-"ros","ros_common","trip_daily_activities","date","timestamp(3) without time zone","YES",
-"ros","ros_common","trip_daily_activity_details","id","integer","YES",
-"ros","ros_common","trip_daily_activity_details","comments","text","NO",
-"ros","ros_common","trip_daily_activity_details","time_of_day","timestamp(3) without time zone","NO",
-"ros","ros_common","trip_daily_activity_details","latitude","double precision","NO",
-"ros","ros_common","trip_daily_activity_details","longitude","double precision","NO",
-"ros","ros_common","trip_daily_activity_details","activity_code","character(2)","NO",
-"ros","ros_common","trip_daily_activity_details","trip_daily_activity_id","integer","YES",
-"ros","ros_common","trip_observer","trip_id","integer","YES",
-"ros","ros_common","trip_observer","date_time_disembarkation","timestamp(6) without time zone","NO",
-"ros","ros_common","trip_observer","date_time_embarkation","timestamp(6) without time zone","NO",
-"ros","ros_common","trip_observer","observer_id","integer","YES",
-"ros","ros_common","trip_observer","disembarkation_location_name","character varying(255)","NO",
-"ros","ros_common","trip_observer","disembarkation_latitude","double precision","NO",
-"ros","ros_common","trip_observer","disembarkation_longitude","double precision","NO",
-"ros","ros_common","trip_observer","disembarkation_country_code","character(3)","NO",
-"ros","ros_common","trip_observer","disembarkation_port_code","character varying(16)","NO",
-"ros","ros_common","trip_observer","embarkation_location_name","character varying(255)","NO",
-"ros","ros_common","trip_observer","embarkation_latitude","double precision","NO",
-"ros","ros_common","trip_observer","embarkation_longitude","double precision","NO",
-"ros","ros_common","trip_observer","embarkation_country_code","character(3)","NO",
-"ros","ros_common","trip_observer","embarkation_port_code","character varying(16)","NO",
-"ros","ros_common","trip_reasons_for_days_lost","id","integer","YES",
-"ros","ros_common","trip_reasons_for_days_lost","reason","text","NO",
-"ros","ros_common","trip_reasons_for_days_lost","inoperativity_reason","character varying(255)","NO",
-"ros","ros_common","trip_reasons_for_days_lost","trip_id","integer","YES",
-"ros","ros_common","trip_vessel","trip_id","integer","YES",
-"ros","ros_common","trip_vessel","number_of_active_fishing_days","integer","NO",
-"ros","ros_common","trip_vessel","number_of_conducted_fishing_events_with_observer_onboard","integer","NO",
-"ros","ros_common","trip_vessel","number_of_days_in_fishing_area","integer","NO",
-"ros","ros_common","trip_vessel","number_of_days_lost","integer","NO",
-"ros","ros_common","trip_vessel","number_of_days_searching","integer","NO",
-"ros","ros_common","trip_vessel","number_of_days_transiting","integer","NO",
-"ros","ros_common","trip_vessel","number_of_observed_fishing_events","integer","NO",
-"ros","ros_common","trip_vessel","hull_material_code","character(2)","NO",
-"ros","ros_common","trip_vessel","number_of_crew","integer","NO",
-"ros","ros_common","trip_vessel","return_timestamp","timestamp(6) without time zone","NO",
-"ros","ros_common","trip_vessel","departure_timestamp","timestamp(6) without time zone","NO",
-"ros","ros_common","trip_vessel","skipper_id","integer","NO",
-"ros","ros_common","trip_vessel","fishing_master_id","integer","NO",
-"ros","ros_common","trip_vessel","vessel_id","integer","NO",
-"ros","ros_common","trip_vessel","fish_storage_capacity_value","double precision","NO",
-"ros","ros_common","trip_vessel","fish_storage_capacity_unit","character varying(3)","NO",
-"ros","ros_common","trip_vessel","loa_value","double precision","NO",
-"ros","ros_common","trip_vessel","loa_unit","character varying(3)","NO",
-"ros","ros_common","trip_vessel","departure_location_name","character varying(255)","NO",
-"ros","ros_common","trip_vessel","departure_latitude","double precision","NO",
-"ros","ros_common","trip_vessel","departure_longitude","double precision","NO",
-"ros","ros_common","trip_vessel","departure_country_code","character(3)","NO",
-"ros","ros_common","trip_vessel","departure_port_code","character varying(16)","NO",
-"ros","ros_common","trip_vessel","return_location_name","character varying(255)","NO",
-"ros","ros_common","trip_vessel","return_latitude","double precision","NO",
-"ros","ros_common","trip_vessel","return_longitude","double precision","NO",
-"ros","ros_common","trip_vessel","return_country_code","character(3)","NO",
-"ros","ros_common","trip_vessel","return_port_code","character varying(16)","NO",
-"ros","ros_common","trip_vessel","autonomy_range_value","double precision","NO",
-"ros","ros_common","trip_vessel","autonomy_range_unit","character varying(3)","NO",
-"ros","ros_common","trip_vessel","tonnage_value","double precision","NO",
-"ros","ros_common","trip_vessel","tonnage_unit","character varying(3)","NO",
-"ros","ros_common","trip_vessel","ais","character varying(5)","NO",
-"ros","ros_common","trip_vessel","gps","character varying(5)","NO",
-"ros","ros_common","trip_vessel","vms","character varying(5)","NO",
-"ros","ros_common","trip_vessel","depth_sounder","character varying(5)","NO",
-"ros","ros_common","trip_vessel","doppler_current_meter","character varying(5)","NO",
-"ros","ros_common","trip_vessel","expendable_bathythermographs","character varying(5)","NO",
-"ros","ros_common","trip_vessel","fisheries_information_services","character varying(5)","NO",
-"ros","ros_common","trip_vessel","hf_radios","character varying(5)","NO",
-"ros","ros_common","trip_vessel","radars","character varying(5)","NO",
-"ros","ros_common","trip_vessel","satellite_communication_systems","character varying(5)","NO",
-"ros","ros_common","trip_vessel","sonar","character varying(5)","NO",
-"ros","ros_common","trip_vessel","track_plotter","character varying(5)","NO",
-"ros","ros_common","trip_vessel","vhf_radios","character varying(5)","NO",
-"ros","ros_common","trip_vessel_fish_preservation_method","trip_id","integer","YES",
-"ros","ros_common","trip_vessel_fish_preservation_method","fish_preservation_method_code","character(2)","YES",
-"ros","ros_common","trip_vessel_fish_storage_type","trip_id","integer","YES",
-"ros","ros_common","trip_vessel_fish_storage_type","fish_storage_type_code","character(2)","YES",
-"ros","ros_common","trip_vessel_main_engines","trip_id","integer","YES",
-"ros","ros_common","trip_vessel_main_engines","main_engines_make","character varying(255)","NO",
-"ros","ros_common","trip_vessel_main_engines","main_engines_value","double precision","YES",
-"ros","ros_common","trip_vessel_main_engines","main_engines_unit","character varying(3)","YES",
-"ros","ros_common","trip_waste_managements","id","integer","YES",
-"ros","ros_common","trip_waste_managements","trip_id","integer","YES",
-"ros","ros_common","trip_waste_managements","waste_storage_or_disposal_method_code","character(2)","NO",
-"ros","ros_common","trip_waste_managements","waste_category_code","character(2)","NO",
-"ros","ros_ps","additional_catch_details_on_ssi","id","integer","YES",
-"ros","ros_ps","additional_catch_details_on_ssi","photo_id","character varying(255)","NO",
-"ros","ros_ps","additional_catch_details_on_ssi","gear_interaction_code","character(2)","NO",
-"ros","ros_ps","additional_catch_details_on_ssi","handling_method_code","character(2)","NO",
-"ros","ros_ps","additional_catch_details_on_ssi","brought_on_board","character varying(5)","NO",
-"ros","ros_ps","additional_catch_details_on_ssi","revival","character varying(5)","NO",
-"ros","ros_ps","catch_details","id","integer","YES",
+"ros","ros_common","trip_daily_activities","trip_id","integer","YES","[EN] Identifier of the trip
+[FR] Identifiant de la marée"
+"ros","ros_common","trip_daily_activities","id","integer","YES","[EN] Unique identifier of the daily activity record
+[FR] Identifiant unique de l'enregistrement de l'activité quotidienne"
+"ros","ros_common","trip_daily_activities","date","timestamp(3) without time zone","YES","[EN] Date of the daily activity
+[FR] Date de l'activité quotidienne"
+"ros","ros_common","trip_daily_activity_details","id","integer","YES","[EN] Unique identifier of the daily activity detail record
+[FR] Identifiant unique de l'enregistrement des détails de l'activité quotidienne"
+"ros","ros_common","trip_daily_activity_details","comments","text","NO","[EN] Additional comments on the daily activity
+[FR] Commentaires complémentaires sur l'activité quotidienne"
+"ros","ros_common","trip_daily_activity_details","time_of_day","timestamp(3) without time zone","NO","[EN] Date and time of the activity
+[FR] Date et heure de l'activité"
+"ros","ros_common","trip_daily_activity_details","latitude","double precision","NO","[EN] Latitude in decimal degrees of the activity location
+[FR] Latitude en degrés décimaux du lieu de l'activité"
+"ros","ros_common","trip_daily_activity_details","longitude","double precision","NO","[EN] Longitude in decimal degrees of the activity location
+[FR] Longitude en degrés décimaux du lieu de l'activité"
+"ros","ros_common","trip_daily_activity_details","activity_code","character(2)","NO","[EN] Code identifying the type of activity
+[FR] Code identifiant le type d'activité"
+"ros","ros_common","trip_daily_activity_details","trip_daily_activity_id","integer","YES","[EN] Identifier of the associated daily activity
+[FR] Identifiant de l'activité quotidienne associée"
+"ros","ros_common","trip_observer","trip_id","integer","YES","[EN] Identifier of the trip
+[FR] Identifiant de la marée"
+"ros","ros_common","trip_observer","date_time_disembarkation","timestamp(6) without time zone","NO","[EN] Date and time of observer disembarkation
+[FR] Date et heure du débarquement de l'observateur scientifique"
+"ros","ros_common","trip_observer","date_time_embarkation","timestamp(6) without time zone","NO","[EN] Date and time of observer embarkation
+[FR] Date et heure de l'embarquement de l'observateur scientifique"
+"ros","ros_common","trip_observer","observer_id","integer","YES","[EN] Identifier of the observer
+[FR] Identifiant de l'observateur scientifique"
+"ros","ros_common","trip_observer","disembarkation_location_name","character varying(255)","NO","[EN] Name of the observer disembarkation location
+[FR] Nom du lieu de débarquement de l'observateur scientifique"
+"ros","ros_common","trip_observer","disembarkation_latitude","double precision","NO","[EN] Latitude in decimal degrees of the observer disembarkation location
+[FR] Latitude en degrés décimaux du lieu de débarquement de l'observateur scientifique"
+"ros","ros_common","trip_observer","disembarkation_longitude","double precision","NO","[EN] Longitude in decimal degrees of the observer disembarkation location
+[FR] Longitude en degrés décimaux du lieu de débarquement de l'observateur scientifique"
+"ros","ros_common","trip_observer","disembarkation_country_code","character(3)","NO","[EN] Three-letter country code of the observer disembarkation location
+[FR] Code à trois lettres du pays du lieu de débarquement de l'observateur scientifique"
+"ros","ros_common","trip_observer","disembarkation_port_code","character varying(16)","NO","[EN] Code identifying the observer disembarkation port
+[FR] Code identifiant le port de débarquement de l'observateur scientifique"
+"ros","ros_common","trip_observer","embarkation_location_name","character varying(255)","NO","[EN] Name of the observer embarkation location
+[FR] Nom du lieu d'embarquement de l'observateur scientifique"
+"ros","ros_common","trip_observer","embarkation_latitude","double precision","NO","[EN] Latitude in decimal degrees of the observer embarkation location
+[FR] Latitude en degrés décimaux du lieu d'embarquement de l'observateur scientifique"
+"ros","ros_common","trip_observer","embarkation_longitude","double precision","NO","[EN] Longitude in decimal degrees of the observer embarkation location
+[FR] Longitude en degrés décimaux du lieu d'embarquement de l'observateur scientifique"
+"ros","ros_common","trip_observer","embarkation_country_code","character(3)","NO","[EN] Three-letter country code of the observer embarkation location
+[FR] Code à trois lettres du pays du lieu d'embarquement de l'observateur scientifique"
+"ros","ros_common","trip_observer","embarkation_port_code","character varying(16)","NO","[EN] Code identifying the observer embarkation port
+[FR] Code identifiant le port d'embarquement de l'observateur scientifique"
+"ros","ros_common","trip_reasons_for_days_lost","id","integer","YES","[EN] Unique identifier of the record
+[FR] Identifiant unique de l'enregistrement"
+"ros","ros_common","trip_reasons_for_days_lost","reason","text","NO","[EN] Reason for the days lost during the trip
+[FR] Raison des jours perdus au cours de la marée"
+"ros","ros_common","trip_reasons_for_days_lost","inoperativity_reason","character varying(255)","NO","[EN] Reason for the inoperativity of the vessel or fishing operation
+[FR] Raison de l'inactivité du navire ou de l'opération de pêche"
+"ros","ros_common","trip_reasons_for_days_lost","trip_id","integer","YES","[EN] Identifier of the trip
+[FR] Identifiant de la marée"
+"ros","ros_common","trip_vessel","trip_id","integer","YES","[EN] Identifier of the trip
+[FR] Identifiant de la marée"
+"ros","ros_common","trip_vessel","number_of_active_fishing_days","integer","NO","[EN] Number of days during the trip on which the vessel was actively fishing
+[FR] Nombre de jours de la marée pendant lesquels le navire a pratiqué activement la pêche"
+"ros","ros_common","trip_vessel","number_of_conducted_fishing_events_with_observer_onboard","integer","NO","[EN] Number of fishing events conducted while an observer was onboard
+[FR] Nombre d'événements de pêche réalisés alors qu'un observateur scientifique était à bord"
+"ros","ros_common","trip_vessel","number_of_days_in_fishing_area","integer","NO","[EN] Number of days spent in the fishing area
+[FR] Nombre de jours passés dans la zone de pêche"
+"ros","ros_common","trip_vessel","number_of_days_lost","integer","NO","[EN] Number of days lost during the trip
+[FR] Nombre de jours perdus au cours de la marée"
+"ros","ros_common","trip_vessel","number_of_days_searching","integer","NO","[EN] Number of days spent searching for fishing opportunities
+[FR] Nombre de jours consacrés à la recherche d'occasions de pêche"
+"ros","ros_common","trip_vessel","number_of_days_transiting","integer","NO","[EN] Number of days spent transiting during the trip
+[FR] Nombre de jours consacrés au transit au cours de la marée"
+"ros","ros_common","trip_vessel","number_of_observed_fishing_events","integer","NO","[EN] Number of fishing events observed by the observer
+[FR] Nombre d'événements de pêche observés par l'observateur scientifique"
+"ros","ros_common","trip_vessel","hull_material_code","character(2)","NO","[EN] Code identifying the material used to construct the vessel hull
+[FR] Code identifiant le matériau utilisé pour la construction de la coque du navire"
+"ros","ros_common","trip_vessel","number_of_crew","integer","NO","[EN] Number of crew members onboard the vessel
+[FR] Nombre de membres d'équipage à bord du navire"
+"ros","ros_common","trip_vessel","return_timestamp","timestamp(6) without time zone","NO","[EN] Date and time of vessel return
+[FR] Date et heure du retour du navire"
+"ros","ros_common","trip_vessel","departure_timestamp","timestamp(6) without time zone","NO","[EN] Date and time of vessel departure
+[FR] Date et heure du départ du navire"
+"ros","ros_common","trip_vessel","skipper_id","integer","NO","[EN] Identifier of the vessel skipper
+[FR] Identifiant du patron du navire"
+"ros","ros_common","trip_vessel","fishing_master_id","integer","NO","[EN] Identifier of the fishing master
+[FR] Identifiant du responsable des opérations de pêche"
+"ros","ros_common","trip_vessel","vessel_id","integer","NO","[EN] Identifier of the vessel
+[FR] Identifiant du navire"
+"ros","ros_common","trip_vessel","fish_storage_capacity_value","double precision","NO","[EN] Fish storage capacity value of the vessel
+[FR] Valeur de la capacité de stockage des poissons du navire"
+"ros","ros_common","trip_vessel","fish_storage_capacity_unit","character varying(3)","NO","[EN] Unit of the fish storage capacity
+[FR] Unité de la capacité de stockage des poissons"
+"ros","ros_common","trip_vessel","loa_value","double precision","NO","[EN] Length overall value of the vessel
+[FR] Valeur de la longueur hors tout du navire"
+"ros","ros_common","trip_vessel","loa_unit","character varying(3)","NO","[EN] Unit of the length overall
+[FR] Unité de la longueur hors tout"
+"ros","ros_common","trip_vessel","departure_location_name","character varying(255)","NO","[EN] Name of the vessel departure location
+[FR] Nom du lieu de départ du navire"
+"ros","ros_common","trip_vessel","departure_latitude","double precision","NO","[EN] Latitude in decimal degrees of the vessel departure location
+[FR] Latitude en degrés décimaux du lieu de départ du navire"
+"ros","ros_common","trip_vessel","departure_longitude","double precision","NO","[EN] Longitude in decimal degrees of the vessel departure location
+[FR] Longitude en degrés décimaux du lieu de départ du navire"
+"ros","ros_common","trip_vessel","departure_country_code","character(3)","NO","[EN] Three-letter country code of the vessel departure location
+[FR] Code à trois lettres du pays du lieu de départ du navire"
+"ros","ros_common","trip_vessel","departure_port_code","character varying(16)","NO","[EN] Code identifying the vessel departure port
+[FR] Code identifiant le port de départ du navire"
+"ros","ros_common","trip_vessel","return_location_name","character varying(255)","NO","[EN] Name of the vessel return location
+[FR] Nom du lieu de retour du navire"
+"ros","ros_common","trip_vessel","return_latitude","double precision","NO","[EN] Latitude in decimal degrees of the vessel return location
+[FR] Latitude en degrés décimaux du lieu de retour du navire"
+"ros","ros_common","trip_vessel","return_longitude","double precision","NO","[EN] Longitude in decimal degrees of the vessel return location
+[FR] Longitude en degrés décimaux du lieu de retour du navire"
+"ros","ros_common","trip_vessel","return_country_code","character(3)","NO","[EN] Three-letter country code of the vessel return location
+[FR] Code à trois lettres du pays du lieu de retour du navire"
+"ros","ros_common","trip_vessel","return_port_code","character varying(16)","NO","[EN] Code identifying the vessel return port
+[FR] Code identifiant le port de retour du navire"
+"ros","ros_common","trip_vessel","autonomy_range_value","double precision","NO","[EN] Autonomy range value of the vessel
+[FR] Valeur de l'autonomie du navire"
+"ros","ros_common","trip_vessel","autonomy_range_unit","character varying(3)","NO","[EN] Unit of the vessel autonomy range
+[FR] Unité de l'autonomie du navire"
+"ros","ros_common","trip_vessel","tonnage_value","double precision","NO","[EN] Tonnage value of the vessel
+[FR] Valeur du tonnage du navire"
+"ros","ros_common","trip_vessel","tonnage_unit","character varying(3)","NO","[EN] Unit of the vessel tonnage
+[FR] Unité du tonnage du navire"
+"ros","ros_common","trip_vessel","ais","character varying(5)","NO","[EN] Indicates whether the vessel is equipped with an Automatic Identification System (AIS)
+[FR] Indique si le navire est équipé d'un système d'identification automatique (AIS)"
+"ros","ros_common","trip_vessel","gps","character varying(5)","NO","[EN] Indicates whether the vessel is equipped with a Global Positioning System (GPS)
+[FR] Indique si le navire est équipé d'un système de positionnement mondial (GPS)"
+"ros","ros_common","trip_vessel","vms","character varying(5)","NO","[EN] Indicates whether the vessel is equipped with a Vessel Monitoring System (VMS)
+[FR] Indique si le navire est équipé d'un système de surveillance des navires (SSN)"
+"ros","ros_common","trip_vessel","depth_sounder","character varying(5)","NO","[EN] Indicates whether the vessel is equipped with a depth sounder
+[FR] Indique si le navire est équipé d'un sondeur"
+"ros","ros_common","trip_vessel","doppler_current_meter","character varying(5)","NO","[EN] Indicates whether the vessel is equipped with a Doppler current meter
+[FR] Indique si le navire est équipé d'un courantomètre Doppler"
+"ros","ros_common","trip_vessel","expendable_bathythermographs","character varying(5)","NO","[EN] Indicates whether the vessel uses expendable bathythermographs (XBT)
+[FR] Indique si le navire utilise des bathythermographes non récupérables (XBT)"
+"ros","ros_common","trip_vessel","fisheries_information_services","character varying(5)","NO","[EN] Indicates whether the vessel has access to fisheries information services
+[FR] Indique si le navire a accès à des services d'information sur les pêches"
+"ros","ros_common","trip_vessel","hf_radios","character varying(5)","NO","[EN] Indicates whether the vessel is equipped with high-frequency radios
+[FR] Indique si le navire est équipé de radios haute fréquence"
+"ros","ros_common","trip_vessel","radars","character varying(5)","NO","[EN] Indicates whether the vessel is equipped with radar systems
+[FR] Indique si le navire est équipé de systèmes radar"
+"ros","ros_common","trip_vessel","satellite_communication_systems","character varying(5)","NO","[EN] Indicates whether the vessel is equipped with satellite communication systems
+[FR] Indique si le navire est équipé de systèmes de communication par satellite"
+"ros","ros_common","trip_vessel","sonar","character varying(5)","NO","[EN] Indicates whether the vessel is equipped with sonar
+[FR] Indique si le navire est équipé d'un sonar"
+"ros","ros_common","trip_vessel","track_plotter","character varying(5)","NO","[EN] Indicates whether the vessel is equipped with a track plotter
+[FR] Indique si le navire est équipé d'un traceur de route"
+"ros","ros_common","trip_vessel","vhf_radios","character varying(5)","NO","[EN] Indicates whether the vessel is equipped with very-high-frequency radios
+[FR] Indique si le navire est équipé de radios à très haute fréquence"
+"ros","ros_common","trip_vessel_fish_preservation_method","trip_id","integer","YES","[EN] Identifier of the trip
+[FR] Identifiant de la marée"
+"ros","ros_common","trip_vessel_fish_preservation_method","fish_preservation_method_code","character(2)","YES","[EN] Code identifying the method used to preserve fish onboard the vessel
+[FR] Code identifiant la méthode utilisée pour conserver les poissons à bord du navire"
+"ros","ros_common","trip_vessel_fish_storage_type","trip_id","integer","YES","[EN] Identifier of the trip
+[FR] Identifiant de la marée"
+"ros","ros_common","trip_vessel_fish_storage_type","fish_storage_type_code","character(2)","YES","[EN] Code identifying the type of fish storage used onboard the vessel
+[FR] Code identifiant le type de stockage des poissons utilisé à bord du navire"
+"ros","ros_common","trip_vessel_main_engines","trip_id","integer","YES","[EN] Identifier of the trip
+[FR] Identifiant de la marée"
+"ros","ros_common","trip_vessel_main_engines","main_engines_make","character varying(255)","NO","[EN] Make of the vessel main engine
+[FR] Marque du moteur principal du navire"
+"ros","ros_common","trip_vessel_main_engines","main_engines_value","double precision","YES","[EN] Value of the main engine power
+[FR] Valeur de la puissance du moteur principal"
+"ros","ros_common","trip_vessel_main_engines","main_engines_unit","character varying(3)","YES","[EN] Unit of the main engine power
+[FR] Unité de la puissance du moteur principal"
+"ros","ros_common","trip_waste_managements","id","integer","YES","[EN] Unique identifier of the waste management record
+[FR] Identifiant unique de l''enregistrement de gestion des déchets"
+"ros","ros_common","trip_waste_managements","trip_id","integer","YES","[EN] Identifier of the trip
+[FR] Identifiant de la marée"
+"ros","ros_common","trip_waste_managements","waste_storage_or_disposal_method_code","character(2)","NO","[EN] Code identifying the method used to store or dispose of the waste
+[FR] Code identifiant la méthode utilisée pour stocker ou éliminer les déchets"
+"ros","ros_common","trip_waste_managements","waste_category_code","character(2)","NO","[EN] Code identifying the category of waste
+[FR] Code identifiant la catégorie de déchets"
+"ros","ros_ps","additional_catch_details_on_ssi","id","integer","YES","[EN] Unique identifier of the additional catch details record
+[FR] Identifiant unique de l''enregistrement des informations complémentaires sur la capture"
+"ros","ros_ps","additional_catch_details_on_ssi","photo_id","character varying(255)","NO","[EN] Identifier of the photo documenting the catch
+[FR] Identifiant de la photographie documentant la capture"
+"ros","ros_ps","additional_catch_details_on_ssi","gear_interaction_code","character(2)","NO","[EN] Code identifying the interaction of the species with the fishing gear
+[FR] Code identifiant l''interaction de l''espèce avec l''engin de pêche"
+"ros","ros_ps","additional_catch_details_on_ssi","handling_method_code","character(2)","NO","[EN] Code identifying the handling method used for the catch
+[FR] Code identifiant la méthode de manipulation utilisée pour la capture"
+"ros","ros_ps","additional_catch_details_on_ssi","brought_on_board","character varying(5)","NO","[EN] Indicates whether the specimen was brought onboard
+[FR] Indique si le spécimen a été embarqué à bord"
+"ros","ros_ps","additional_catch_details_on_ssi","revival","character varying(5)","NO","[EN] Indicates whether the specimen was revived
+[FR] Indique si le spécimen a été réanimé"
+"ros","ros_ps","catch_details","id","integer","YES","[EN] Unique identifier of the catch details record
+[FR] Identifiant unique de l''enregistrement des détails de la capture"
 "ros","ros_ps","catch_details","catch_detail_original_id","character varying(255)","YES",
 "ros","ros_ps","catch_details","comments","text","NO",
 "ros","ros_ps","catch_details","estimated_catch_in_numbers","integer","NO",
